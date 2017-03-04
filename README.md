@@ -8,5 +8,5 @@ Weitere Daten / Projektideen:
 
 Geodaten Konvertiert mit:
 
-  ogr2ogr -f GeoJSON -s_srs epsg:31493 -t_srs epsg:4326 <geojson.datei> <daten.dbf>
+  ogr2ogr -f GeoJSON -s_srs epsg:31467 -t_srs epsg:4326 <geojson.datei> <daten.dbf>
 
