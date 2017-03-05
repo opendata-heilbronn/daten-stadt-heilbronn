@@ -10,3 +10,4 @@ Geodaten Konvertiert mit:
 
   ogr2ogr -f GeoJSON -s_srs epsg:31467 -t_srs epsg:4326 <geojson.datei> <daten.dbf>
 
+Entstandene Projekte: http://blog.opendatalab.de/opendata/2017/03/04/open-data-day
