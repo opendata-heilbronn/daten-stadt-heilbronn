@@ -1,0 +1,1606 @@
+stop_id,stop_name,stop_lat,stop_lon
+de:08121:137:1:0,"Heilbronn, Neckarturm,Heilbronn",49.142786,9.213643
+de:08121:23:1:0,Heilbronn Harmonie/Kunsthalle,49.141969,9.222509
+de:08121:24:2:2,HN Harmonie/Hafenmarktpassage,49.142239,9.222293
+de:08121:4479:0:2,"Heilbronn, Allee/Moltkestraße,Heilbronn",49.141411,9.222356
+de:08121:55:1:0,"Heilbronn, Rathaus,Heilbronn",49.142087,9.218484
+de:08121:55:1:1,"Heilbronn, Rathaus,Heilbronn",49.141987,9.218709
+de:08121:75:2:1,Heilbronn Sülmertor,49.151547,9.221925
+de:08121:75:2:2,Heilbronn Sülmertor,49.151465,9.221665
+de:08121:76:0:1,Heilbronn Berliner Platz (West,49.144907,9.222976
+de:08121:79:0:2,"Heilbronn, B27 (Kreuzenstraße),Heilbronn",49.160982,9.226183
+de:08121:81:0:Hp. 6,"Heilbronn, Wollhausplatz,Heilbronn",49.139342,9.220524
+de:08121:81:0:ohne,"Heilbronn, Wollhausplatz,Heilbronn",49.139395,9.220416
+de:08121:83:0:1,"Heilbronn, B27 (Karl-Wüst-Brücke),Heilbronn",49.166845,9.225967
+de:08121:9343:0:1,"Heilbronn, Berliner Platz,Heilbronn",49.144802,9.223237
+de:08125:1014:0:1,Stollenhof Äußerer Stollenhof,49.096580,9.453044
+de:08125:1015:0:1,Stollenhof Innerer Stollenhof,49.096157,9.461829
+de:08125:1015:0:2,Stollenhof Innerer Stollenhof,49.096239,9.463958
+de:08125:1016:0:1,Weihenbronn Ort,49.094045,9.474891
+de:08125:1021:0:1,Weihenbronn Abzw B 39,49.093492,9.477873
+de:08125:1021:0:2,Weihenbronn Abzw B 39,49.093410,9.478610
+de:08125:1023:1:11,Eschenau Bahnhof,49.143644,9.402810
+de:08125:1023:1:12,Eschenau Bahnhof,49.143632,9.402900
+de:08125:14502:0:1,Neuhütten Kindergarten,49.113247,9.492084
+de:08125:14502:0:2,Neuhütten Kindergarten,49.113247,9.492084
+de:08125:15010,Pfitzhof Abzweig,49.294433,9.471082
+de:08125:1515:0:1,"Kochendorf, Friedrichsplatz,Kochendorf",49.228985,9.216257
+de:08125:1550:0:1,"Kochertürn, Kreuz,Kochertürn",49.246663,9.307957
+de:08125:1582:0:1,"Lampoldshausen, Brückenstraße,Lampoldshausen",49.262787,9.400564
+de:08125:19207,Maienfels Kreuzle,49.115464,9.492587
+de:08125:1984:0:1,Wüstenrot Blindenmannshäusle,49.107761,9.503700
+de:08125:305:0:1,"Neuenstadt (K), Benzstraße,Neuenstadt a Kocher",49.238094,9.339119
+de:08125:305:0:2,"Neuenstadt (K), Benzstraße,Neuenstadt a Kocher",49.238147,9.339155
+de:08125:306:0:1,"Neuenstadt (K), Mühläcker,Neuenstadt a Kocher",49.233760,9.328043
+de:08125:306:0:2,"Neuenstadt (K), Mühläcker,Neuenstadt a Kocher",49.233883,9.327989
+de:08125:34505:0:1,"Amorbach, Sonnenhalde,Amorbach (Neckarsulm",49.209387,9.249396
+de:08125:34505:0:2,"Amorbach, Sonnenhalde,Amorbach (Neckarsulm",49.209352,9.249351
+de:08125:4218:0:1,Wüstenrot Löwensteiner Straße,49.086151,9.461820
+de:08125:4499:0:>Bhf,Neckarsulm Bf Ost/Friedrichstr,49.190023,9.221898
+de:08125:4499:0:>NSU,Neckarsulm Bf Ost/Friedrichstr,49.189999,9.221889
+de:08125:4506:0:1,"Kochendorf, Lindenberghalle,Kochendorf",49.224919,9.222536
+de:08125:4506:0:2,"Kochendorf, Lindenberghalle,Kochendorf",49.224837,9.222455
+de:08125:4510:0:1,"Kochendorf, Friedhof,Kochendorf",49.225559,9.226596
+de:08125:4510:0:2,"Kochendorf, Friedhof,Kochendorf",49.225570,9.226659
+de:08125:4516:0:>Sued,"Kochendorf, GIF,Kochendorf",49.213718,9.216490
+de:08125:4880,Möckmühl Grundschule,49.323114,9.358532
+de:08125:4900,Möckmühl Hölderlinstraße,49.319818,9.355208
+de:08125:4901,Möckmühl Im Schlot,49.323079,9.344626
+de:08125:4902,Möckmühl Kindergarten,49.321586,9.352513
+de:08125:4903,Möckmühl Kreiskrankenhaus,49.323061,9.349243
+de:08125:4904,Möckmühl Roigheimer Straße,49.325292,9.359026
+de:08125:4905,Möckmühl Seniorenresidenz,49.322529,9.347950
+de:08125:4906,Möckmühl Brücke,49.322851,9.362727
+de:08125:4907,Möckmühl Lehlestraße,49.321211,9.368889
+de:08125:4908,Möckmühl Schubertstraße,49.322330,9.369078
+de:08125:4909,Möckmühl Vorstädtle,49.319981,9.369186
+de:08125:4910,Möckmühl Hagenbach,49.352990,9.380073
+de:08125:4911,Möckmühl Ruchsen,49.319132,9.378888
+de:08125:500:0:>Nord,Neckarsulm Wilhelmstraße,49.186981,9.224521
+de:08125:504:0:>Mitt,"Neckarsulm, ZOB/Ballei,Neckarsulm",49.193962,9.227369
+de:08125:504:0:>Nord,"Neckarsulm, ZOB/Ballei,Neckarsulm",49.193962,9.227315
+de:08125:505:1,"Neckarsulm, Viktorshöhe B27,Neckarsulm",49.199867,9.232974
+de:08125:505:2,"Neckarsulm, Viktorshöhe B27,Neckarsulm",49.199850,9.233181
+de:08125:506:0:0,Neckarsulm Einkaufszentrum,49.183547,9.224755
+de:08125:511,"Neckarsulm, Nord/AUDI Tor 6,Neckarsulm",49.202168,9.227018
+de:08125:514:0:>NSU,"Amorbach, Reichertsberg,Amorbach (Neckarsulm",49.214147,9.250393
+de:08125:514:0:>Neue,"Amorbach, Reichertsberg,Amorbach (Neckarsulm",49.214305,9.250204
+de:08125:515:0:2,Bad Fr-Kochendf Hagenbacher Str.,49.229859,9.217299
+de:08125:516:0:>NSU,Plattenwald (Kr HN) Klinikum,49.211787,9.234708
+de:08125:516:0:>Plat,Plattenwald (Kr HN) Klinikum,49.211723,9.234681
+de:08125:517:0:>Hage,"Hagenbach, Ohrnberger Straße,Hagenbach (Kocher)",49.233848,9.222617
+de:08125:517:0:>Koch,"Hagenbach, Ohrnberger Straße,Hagenbach (Kocher)",49.233912,9.222446
+de:08125:518:0:Nord,"Kochendorf, Rathaus,Bad Friedrichshall",49.228404,9.210391
+de:08125:518:0:Sued,"Kochendorf, Rathaus,Bad Friedrichshall",49.228375,9.207642
+de:08125:519:1:20,Bad Friedrichshall Hbf,49.232252,9.199907
+de:08125:520:0:1,"Neckarsulm, AUDI Werk A13/A15,Neckarsulm",49.202432,9.222015
+de:08125:521:0:>NSU,"Amorbach, Landesstraße,Amorbach (Neckarsulm",49.208695,9.249665
+de:08125:521:0:>Neue,"Amorbach, Landesstraße,Amorbach (Neckarsulm",49.208560,9.249584
+de:08125:523:0:>Amor,Plattenwald (Kr HN) Europapl.,49.213213,9.243952
+de:08125:523:0:>West,Plattenwald (Kr HN) Europapl.,49.213225,9.243979
+de:08125:524:0:>Ost,Plattenwald (Kr HN) Ehrlichst.,49.212750,9.239218
+de:08125:524:0:>West,Plattenwald (Kr HN) Ehrlichst.,49.212820,9.239218
+de:08125:525:0:0,"Neckarsulm, Heilbronner Str. Süd,Neckarsulm",49.180382,9.223973
+de:08125:5393:0:>Bhf,"Neckarsulm, Museum,Neckarsulm",49.191614,9.222734
+de:08125:5393:0:>Mark,"Neckarsulm, Museum,Neckarsulm",49.191784,9.222832
+de:08125:5402:0:1,Neuhütten Vogelheide,49.108749,9.488419
+de:08125:5402:0:2,Neuhütten Vogelheide,49.108749,9.488419
+de:08125:5403,Neuhütten Grundschule,49.110201,9.490773
+de:08125:5405,Eschenau Schloß,49.137050,9.404454
+de:08125:5407,Eschenau Köberleweg,49.136645,9.407445
+de:08125:5409:0:1,Eschenau Schwabenstraße,49.139836,9.405253
+de:08125:5411,Eschenau Bergstraße,49.138725,9.408945
+de:08125:543,"Lampoldshausen, Waldstraße,Lampoldshausen",49.265337,9.398516
+de:08125:544,"Kochersteinsfeld, Rathaus,Kochersteinsfeld",49.241983,9.403079
+de:08125:545:0:>Ost,"Gochsen, Hauptstraße,Gochsen",49.241865,9.364757
+de:08125:545:0:>West,"Gochsen, Hauptstraße,Gochsen",49.241965,9.364739
+de:08125:546:0:>Ost,"Bürg, Krone,Neuenstadt a Kocher",49.243296,9.337062
+de:08125:546:0:>West,"Bürg, Krone,Neuenstadt a Kocher",49.243431,9.337008
+de:08125:547:1:01,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.237021,9.331340
+de:08125:547:2:02,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.236651,9.331555
+de:08125:547:3:03,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.236687,9.331376
+de:08125:547:4:04,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.236769,9.331385
+de:08125:547:5:05,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.236868,9.331250
+de:08125:547:6:06,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.237138,9.331367
+de:08125:547:7:07,"Neuenstadt (K), ZOB Lindenplatz,Neuenstadt a Kocher",49.237168,9.330936
+de:08125:550,"Kochertürn, Kirche,Kochertürn",49.245636,9.308235
+de:08125:5500,Jagsthausen Rathaus,49.309681,9.469698
+de:08125:5501,Jagsthausen Brücke,49.308468,9.464587
+de:08125:5502,Jagsthausen Felsenkeller,49.310623,9.469474
+de:08125:5503,Jagsthausen Bahnhofstraße,49.306975,9.465000
+de:08125:5504,Jagsthausen Bergwaldstraße,49.305171,9.466330
+de:08125:551,"Stein (K), Ortsmitte,Stein a Kocher",49.263138,9.299432
+de:08125:5515,Olnhausen,49.313224,9.444734
+de:08125:5516,Jagsthausen Schule,49.308749,9.470183
+de:08125:5520,Widdern Im Klösterle,49.324074,9.422573
+de:08125:5521,Widdern Lagerhaus,49.314723,9.415575
+de:08125:5522,Widdern Kirche,49.317030,9.419968
+de:08125:5523,Widdern Schule,49.315490,9.415404
+de:08125:552:0:>Ost,"Neuenstadt (K), Hofgartenstraße,Neuenstadt a Kocher",49.235537,9.341266
+de:08125:552:0:>West,"Neuenstadt (K), Hofgartenstraße,Neuenstadt a Kocher",49.235607,9.341320
+de:08125:5530,Möckmühl Korb,49.355933,9.397393
+de:08125:553:0:>Ost,"Cleversulzbach, Rathaus,Cleversulzbach",49.214551,9.354741
+de:08125:553:0:>West,"Cleversulzbach, Rathaus,Cleversulzbach",49.214663,9.354768
+de:08125:5540,Unterkessach Kirche,49.345997,9.438033
+de:08125:5541,Unterkessach Mühle,49.343661,9.437566
+de:08125:5542,Volkshausen Abzweig,49.358338,9.427406
+de:08125:5543:0:1,Neuhütten Schoch,49.107890,9.484000
+de:08125:5543:0:2,Neuhütten Schoch,49.107890,9.484000
+de:08125:554:0:>Nord,"Brettach, Discher,Brettach (Langenbr.)",49.225699,9.381448
+de:08125:554:0:>Sued,"Brettach, Discher,Brettach (Langenbr.)",49.225688,9.381331
+de:08125:555,"Langenbeutingen, Schule,Langenbeutingen",49.214974,9.412197
+de:08125:5550:0:1,Kochersteinsfeld Schafgrabenw.,49.241121,9.406259
+de:08125:556,Neudeck,49.207668,9.420426
+de:08125:5560:0:1,Maienfels Schweizerhof,49.119639,9.499765
+de:08125:5561:0:1,Maienfels Brettach,49.118627,9.520732
+de:08125:5562:0:1,Maienfels,49.119933,9.511192
+de:08125:557,"Kochersteinsfeld, Lindenplatz,Kochersteinsfeld",49.242470,9.404337
+de:08125:5570,Neudeck Abzweig,49.207550,9.423750
+de:08125:558,"Neuenstadt (K), Grundschule,Neuenstadt a Kocher",49.237443,9.333792
+de:08125:559:0:A,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234329,9.336945
+de:08125:559:0:B,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234346,9.336918
+de:08125:559:0:C,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234270,9.336990
+de:08125:559:0:D,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234247,9.337053
+de:08125:559:0:ohne,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234235,9.336936
+de:08125:559:0:zA,"Neuenstadt (K), Schulzentrum,Neuenstadt a Kocher",49.234299,9.336945
+de:08125:56010:0:1,"Amorbach, Frankenweg,Amorbach (Neckarsulm",49.211506,9.251174
+de:08125:56010:0:2,"Amorbach, Frankenweg,Amorbach (Neckarsulm",49.211506,9.251147
+de:08125:561:0:>Ost,"Neuenstadt (K), Schafgasse,Neuenstadt a Kocher",49.232692,9.333217
+de:08125:561:0:>West,"Neuenstadt (K), Schafgasse,Neuenstadt a Kocher",49.232780,9.333217
+de:08125:565:0:>West,"Oedheim, Mäurichweg,Oedheim",49.244030,9.247823
+de:08125:566,"Oedheim, Rathaus,Oedheim",49.239748,9.256528
+de:08125:567,"Degmarn, Ortsmitte,Degmarn",49.249653,9.288921
+de:08125:568,"Oedheim, Schule,Oedheim",49.241578,9.246287
+de:08125:569:0:>NSU,"Amorbach, Bordighera-Allee,Amorbach (Neckarsulm",49.211095,9.254184
+de:08125:569:0:>Neue,"Amorbach, Bordighera-Allee,Amorbach (Neckarsulm",49.210954,9.254264
+de:08125:570:0:nAmor,"Lautenbach, Abzweigung,Lautenbach (Oedheim)",49.212445,9.275150
+de:08125:570:0:nDahe,"Lautenbach, Abzweigung,Lautenbach (Oedheim)",49.212345,9.275285
+de:08125:571:0:nKoch,"Hagenbach, Mitte,Hagenbach (Kocher)",49.240276,9.226659
+de:08125:571:0:vKoch,"Hagenbach, Mitte,Hagenbach (Kocher)",49.240176,9.226740
+de:08125:572:0:nHage,"Hagenbach, Abzw. Willenbacher Hof,Hagenbach (Kocher)",49.249014,9.234313
+de:08125:572:0:vHage,"Hagenbach, Abzw. Willenbacher Hof,Hagenbach (Kocher)",49.248932,9.234448
+de:08125:573:0:>Ost,"Oedheim, Hauptstraße,Oedheim",49.238816,9.252432
+de:08125:573:0:>West,"Oedheim, Hauptstraße,Oedheim",49.238951,9.252486
+de:08125:574:0:>Ost,"Oedheim, Neuenstädter Straße,Oedheim",49.239930,9.263553
+de:08125:574:0:>West,"Oedheim, Neuenstädter Straße,Oedheim",49.240094,9.263589
+de:08125:575:0:nNeue,"Neuenstadt (K), Fa. Bordt,Neuenstadt a Kocher",49.236165,9.323183
+de:08125:575:0:nStei,"Neuenstadt (K), Fa. Bordt,Neuenstadt a Kocher",49.236253,9.323156
+de:08125:577:0:nKoch,"Stein (K), Mäurich,Stein a Kocher",49.257305,9.298102
+de:08125:577:0:nStei,"Stein (K), Mäurich,Stein a Kocher",49.257370,9.298300
+de:08125:578:0:>Nsta,"Stein (K), Grüner Baum,Stein a Kocher",49.260283,9.298659
+de:08125:578:0:>Stei,"Stein (K), Grüner Baum,Stein a Kocher",49.260295,9.298345
+de:08125:579,"Stein (K), Turnhalle,Stein a Kocher",49.262939,9.297150
+de:08125:580,"Kochersteinsfeld, Kelter,Kochersteinsfeld",49.241783,9.401328
+de:08125:581,"Lampoldshausen, Lamprechtstraße,Lampoldshausen",49.262535,9.401381
+de:08125:583,"Kochersteinsfeld, Post,Kochersteinsfeld",49.242288,9.400133
+de:08125:584:0:>Lhsn,"Gochsen, Austraße,Gochsen",49.239789,9.361757
+de:08125:584:0:>NSta,"Gochsen, Austraße,Gochsen",49.240042,9.361927
+de:08125:585,Langenbeutingen Lagerhaus,49.212662,9.415431
+de:08125:586,"Langenbeutingen, Mitte,Langenbeutingen",49.214123,9.411200
+de:08125:587:0:>Nord,"Brettach, Gemeindehalle,Brettach (Langenbr.)",49.223423,9.381376
+de:08125:587:0:>Sued,"Brettach, Gemeindehalle,Brettach (Langenbr.)",49.223558,9.381232
+de:08125:588:0:>NW,"Brettach, Neuenstädter Straße,Brettach (Langenbr.)",49.227201,9.376561
+de:08125:588:0:>SO,"Brettach, Neuenstädter Straße,Brettach (Langenbr.)",49.227102,9.376462
+de:08125:589,"Langenbeutingen, Mühlweg,Langenbeutingen",49.216147,9.405936
+de:08125:590,"Langenbeutingen, Schulstraße,Langenbeutingen",49.213654,9.416554
+de:08125:591:0:>Ost,"Gochsen, Go. Buchsmühle,Gochsen",49.243924,9.373650
+de:08125:591:0:>West,"Gochsen, Go. Buchsmühle,Gochsen",49.244024,9.373516
+de:08125:627:0:2,"Neckarsulm, Marktstraße,Neckarsulm",49.192365,9.224988
+de:08125:706,"Oedheim, Marktplatz,Oedheim",49.239731,9.256124
+de:08125:709:0:R.Nst,"Kochertürn, Theo-Förch-Straße,Kochertürn",49.242563,9.304372
+de:08125:709:0:R.Ste,"Kochertürn, Theo-Förch-Straße,Kochertürn",49.241408,9.305468
+de:08125:7500,Möckmühl Brandhölzle,49.313552,9.371665
+de:08125:77012:0:1,"Amorbach, Haydnweg,Amorbach (Neckarsulm",49.210473,9.251075
+de:08125:77012:0:2,"Amorbach, Haydnweg,Amorbach (Neckarsulm",49.210467,9.251102
+de:08125:79024:0:1,"Neuenstadt, Seewiesen,Neuenstadt a Kocher",49.225259,9.327729
+de:08125:79024:0:2,"Neuenstadt, Seewiesen,Neuenstadt a Kocher",49.225336,9.327756
+de:08125:79036:0:1,"Neuenstadt, Im Daistler,Neuenstadt a Kocher",49.228081,9.335122
+de:08125:79036:0:2,"Neuenstadt, Im Daistler,Neuenstadt a Kocher",49.227841,9.335023
+de:08125:79038:0:1,"Oedheim, Neuberg,Oedheim",49.235449,9.249306
+de:08125:79039:0:1,Oedheim Am Bautzenwald,49.243672,9.246880
+de:08125:79039:0:2,Oedheim Am Bautzenwald,49.243707,9.246907
+de:08125:79040:0:1,"Oedheim, Heuchlinger Straße,Oedheim",49.240874,9.250761
+de:08125:79040:0:2,"Oedheim, Heuchlinger Straße,Oedheim",49.240804,9.250599
+de:08125:79446,Langenbeutingen Bössinger Str.,49.212703,9.418548
+de:08125:79447,Langenbeutingen Rimmlingshof,49.217538,9.436793
+de:08125:79457:0:>Ost,"Neuenstadt, GIK,Neuenstadt a Kocher",49.235220,9.353735
+de:08125:79457:0:>West,"Neuenstadt, GIK,Neuenstadt a Kocher",49.235167,9.353708
+de:08125:79458:0:1,"Neuenstadt, Betriebshof,Neuenstadt a Kocher",49.233390,9.357616
+de:08125:79475:0:>Ost,"Brettach, Seligenau,Brettach (Langenbr.)",49.220583,9.369644
+de:08125:79475:0:>West,"Brettach, Seligenau,Brettach (Langenbr.)",49.220695,9.369635
+de:08125:79480:0:nDegm,"Degmarn, Landesstraße,Degmarn",49.237901,9.292874
+de:08125:79480:0:nKoch,"Degmarn, Landesstraße,Degmarn",49.237883,9.292685
+de:08125:9003,Neudeck Wiesenhof,49.201534,9.411011
+de:08125:910,Möckmühl Schulzentrum,49.321896,9.366832
+de:08125:911:0:1,Möckmühl Im Haag,49.322499,9.359906
+de:08125:911:0:2,Möckmühl Im Haag,49.322452,9.360050
+de:08125:912:1,Möckmühl Bahnhof,49.321112,9.358774
+de:08125:9230:0:nHN,"Dahenfeld, Industriestraße,Dahenfeld",49.212897,9.298497
+de:08125:9230:0:vHN,"Dahenfeld, Industriestraße,Dahenfeld",49.212985,9.298399
+de:08125:9231:0:nNst,"Dahenfeld, Bismarckstraße,Dahenfeld",49.211177,9.300429
+de:08125:9231:0:vNst,"Dahenfeld, Bismarckstraße,Dahenfeld",49.211177,9.300366
+de:08125:9249,"Neckarsulm, Bhf. Ost/Vorplatz,Neckarsulm",49.188919,9.220335
+de:08125:9429:0:nNst,"Cleversulzbach, Kieshofstraße,Cleversulzbach",49.215285,9.357517
+de:08125:9429:0:vNst,"Cleversulzbach, Kieshofstraße,Cleversulzbach",49.215273,9.357445
+de:08125:9430,"Brettach, Cleversulzbacher Straße,Brettach (Langenbr.)",49.223147,9.381322
+de:08125:958:0:1,Eschenau Schule,49.139771,9.403178
+de:08125:958:0:2,Eschenau Schule,49.139812,9.403286
+de:08125:973:0:1,Stollenhof Abzw Wüstenrot,49.096304,9.450295
+de:08125:974:0:1,Wüstenrot-Spatzenhof,49.091522,9.456781
+de:08125:974:0:2,Wüstenrot-Spatzenhof,49.091981,9.455936
+de:08125:975:0:1,Wüstenrot Im Neubruch,49.087968,9.461021
+de:08125:975:0:2,Wüstenrot Im Neubruch,49.088033,9.461030
+de:08125:984:0:1,Wüstenrot Schule,49.084133,9.461775
+de:08125:984:0:2,Wüstenrot Schule,49.084133,9.461802
+de:08125:985:0:1,Wüstenrot Freibad,49.088010,9.463769
+de:08125:985:0:2,Wüstenrot Freibad,49.088027,9.463769
+de:08125:986:0:1,Weihenbronn Fa. Trefz,49.094604,9.480307
+de:08125:986:0:2,Weihenbronn Fa. Trefz,49.094604,9.480307
+de:08125:987:0:1,Neuhütten Friedhof,49.101409,9.483290
+de:08125:987:0:2,Neuhütten Friedhof,49.101192,9.483344
+de:08125:988:0:1,Neuhütten Post,49.104862,9.485221
+de:08125:988:0:2,Neuhütten Post,49.105032,9.485293
+de:08125:990:0:1,Maienfels Abzw Maienfels,49.118863,9.495471
+de:08125:990:0:2,Maienfels Abzw Maienfels,49.118863,9.495471
+de:08125:991:0:1,Wüstenrot-Berg,49.122196,9.498804
+de:08125:991:0:2,Wüstenrot-Berg,49.122472,9.499019
+de:08125:992:0:1,Oberheimbach,49.127557,9.497196
+de:08125:992:0:2,Oberheimbach,49.127557,9.497196
+de:08126:10101:1:1,Bretzfeld Bahnhof,49.172712,9.440099
+de:08126:10101:1:2,Bretzfeld Bahnhof,49.172706,9.440108
+de:08126:10102:0:1,Bretzfeld Bildungszentrum,49.177845,9.434844
+de:08126:10102:0:2,Bretzfeld Bildungszentrum,49.177898,9.434880
+de:08126:10103:0:1,Bretzfeld Mitte,49.177751,9.439614
+de:08126:10103:0:2,Bretzfeld Mitte,49.177751,9.439614
+de:08126:10104:0:1,Bretzfeld Fa. Schulz,49.168055,9.440503
+de:08126:10104:0:2,Bretzfeld Fa. Schulz,49.168055,9.440503
+de:08126:10105:0:1,Bretzfeld Bretzfelder Hof,49.175525,9.438913
+de:08126:10105:0:2,Bretzfeld Bretzfelder Hof,49.175678,9.439057
+de:08126:10106:0:1,Adolzfurt Abzw. Scheppach,49.165740,9.444564
+de:08126:10106:0:2,Adolzfurt Abzw. Scheppach,49.165740,9.444564
+de:08126:10107:0:1,Adolzfurt Kindergarten,49.163614,9.444635
+de:08126:10108:0:1,Adolzfurt Wiesentalstraße,49.164307,9.450115
+de:08126:10108:0:2,Adolzfurt Wiesentalstraße,49.163508,9.451274
+de:08126:10109:0:1,Geddelsbach Abzweig,49.158803,9.459862
+de:08126:10109:0:2,Geddelsbach Abzweig,49.158803,9.459862
+de:08126:10110:0:1,Adolzfurt Wiesental,49.153580,9.460041
+de:08126:10110:0:2,Adolzfurt Wiesental,49.153609,9.460140
+de:08126:10112:0:1,Bitzfeld Schule,49.191807,9.445857
+de:08126:10112:0:2,Bitzfeld Schule,49.191702,9.445606
+de:08126:10113:0:1,Bitzfeld Schumm,49.189776,9.444824
+de:08126:10113:0:2,Bitzfeld Schumm,49.189729,9.444519
+de:08126:10114:0:1,Bitzfeld Birkenhöfe,49.188391,9.426166
+de:08126:10114:0:2,Bitzfeld Birkenhöfe,49.188303,9.425591
+de:08126:10115:0:1,Bitzfeld Weißlensburg,49.203471,9.430415
+de:08126:10115:0:2,Bitzfeld Weißlensburg,49.203471,9.430415
+de:08126:10117:0:1,Dimbach Friedhof,49.167221,9.389775
+de:08126:10117:0:2,Dimbach Friedhof,49.167221,9.389775
+de:08126:10118:0:1,Dimbach Mitte,49.169388,9.384475
+de:08126:10118:0:2,Dimbach Mitte,49.169388,9.384475
+de:08126:10119:0:1,Geddelsbach,49.142668,9.499415
+de:08126:10119:0:2,Geddelsbach,49.142668,9.499415
+de:08126:10120:0:1,Adolzfurter Hälden,49.151306,9.473031
+de:08126:10120:0:2,Adolzfurter Hälden,49.151612,9.472681
+de:08126:10121:0:1,Geddelsbacher Hälden,49.147029,9.482607
+de:08126:10121:0:2,Geddelsbacher Hälden,49.147029,9.482607
+de:08126:10122:0:1,Rappach Erlenweg,49.175572,9.426400
+de:08126:10122:0:2,Rappach Erlenweg,49.175725,9.425636
+de:08126:10123:0:1,Rappach Ort,49.172695,9.424837
+de:08126:10123:0:2,Rappach Ort,49.172695,9.424837
+de:08126:10124:0:1,Bretzfeld Steinsfeldstraße,49.175807,9.429948
+de:08126:10124:0:2,Bretzfeld Steinsfeldstraße,49.175807,9.429948
+de:08126:10125:0:1,Scheppach Mitte,49.163749,9.438419
+de:08126:10126:0:1,Schwabbach Hauptstraße,49.183247,9.403663
+de:08126:10126:0:2,Schwabbach Hauptstraße,49.183247,9.403663
+de:08126:10127:0:1,Schwabbach Volksbank,49.182026,9.404220
+de:08126:10127:0:2,Schwabbach Volksbank,49.182026,9.404310
+de:08126:10128:0:1,Siebeneich,49.192753,9.391195
+de:08126:10128:0:2,Siebeneich,49.192753,9.391195
+de:08126:10129:0:1,Waldbach Kirche,49.163414,9.407445
+de:08126:10129:0:2,Waldbach Kirche,49.163414,9.407445
+de:08126:10130:0:1,Waldbach Alte Schule,49.163197,9.404858
+de:08126:10130:0:2,Waldbach Alte Schule,49.163197,9.404858
+de:08126:10131:0:1,Schwabbach Kindergarten,49.185003,9.403169
+de:08126:10131:0:2,Schwabbach Kindergarten,49.185003,9.403169
+de:08126:10133:0:1,Schwabbach Schwabenstraße,49.181221,9.408056
+de:08126:10133:0:2,Schwabbach Schwabenstraße,49.181221,9.408056
+de:08126:10135:0:1,Waldbach Eschenauer Straße,49.159085,9.407670
+de:08126:10149:0:1,Pfedelbach Kelterstraße,49.178332,9.509332
+de:08126:10149:0:2,Pfedelbach Kelterstraße,49.178332,9.509332
+de:08126:10150:0:1,Pfedelbach Ri-Strauß-Str/Kiga,49.180611,9.515279
+de:08126:10150:0:2,Pfedelbach Ri-Strauß-Str/Kiga,49.180611,9.515279
+de:08126:10151:0:1,Pfedelbach Weststraße,49.180975,9.503026
+de:08126:10151:0:2,Pfedelbach Weststraße,49.180975,9.503026
+de:08126:10152:0:1,Pfedelbach O.-Rettenmaier-Str.,49.180141,9.509637
+de:08126:10152:0:2,Pfedelbach O.-Rettenmaier-Str.,49.180141,9.509637
+de:08126:10153:0:1,Pfedelbach Huber,49.173581,9.502918
+de:08126:10153:0:2,Pfedelbach Huber,49.173581,9.502918
+de:08126:10154:0:1,Pfedelbach Katholische Kirche,49.177081,9.502972
+de:08126:10154:0:2,Pfedelbach Katholische Kirche,49.177081,9.502972
+de:08126:10155:0:1,Pfedelbach Schloß,49.176471,9.504167
+de:08126:10155:0:2,Pfedelbach Schloß,49.176471,9.504167
+de:08126:10156:0:1,Pfedelbach Schule,49.178503,9.502415
+de:08126:10156:0:2,Pfedelbach Schule,49.178503,9.502415
+de:08126:10157:0:1,Pfedelbach Orffstraße,49.181251,9.518109
+de:08126:10157:0:2,Pfedelbach Orffstraße,49.181251,9.518109
+de:08126:10158:0:1,Pfedelbach Erich-Fritz-Halle,49.179806,9.506502
+de:08126:10158:0:2,Pfedelbach Erich-Fritz-Halle,49.179806,9.506502
+de:08126:10159:0:1,Pfedelbach Espig Abzweig,49.149367,9.516402
+de:08126:10159:0:2,Pfedelbach Espig Abzweig,49.149338,9.516294
+de:08126:10160:0:1,Pfedelb. Heuberg Bergstr./Kiga,49.160835,9.497834
+de:08126:10160:0:2,Pfedelb. Heuberg Bergstr./Kiga,49.160835,9.497834
+de:08126:10161:0:1,Pfedelbach Heuberg Ort,49.160501,9.500079
+de:08126:10161:0:2,Pfedelbach Heuberg Ort,49.160501,9.500079
+de:08126:10163:0:1,Harsberg Baierbach,49.171056,9.528331
+de:08126:10163:0:2,Harsberg Baierbach,49.171038,9.528340
+de:08126:10164:0:1,Harsberg Heuholz,49.153915,9.544699
+de:08126:10164:0:2,Harsberg Heuholz,49.153915,9.544699
+de:08126:10165:0:1,Harsberg Abzweig,49.156970,9.541357
+de:08126:10165:0:2,Harsberg Abzweig,49.156970,9.541357
+de:08126:10166:0:1,Harsberg Oberhöfen,49.161164,9.539003
+de:08126:10166:0:2,Harsberg Oberhöfen,49.161164,9.539003
+de:08126:10167:0:1,Harsberg Unterhöfen,49.164889,9.535419
+de:08126:10167:0:2,Harsberg Unterhöfen,49.164889,9.535419
+de:08126:10168:0:Bus,Harsberg Renzen,49.149244,9.555443
+de:08126:10169:0:Bus,Harsberg Renzen Sägewerk,49.148351,9.557823
+de:08126:10170:0:1,Oberohrn Akazienstraße,49.177722,9.529580
+de:08126:10170:0:2,Oberohrn Akazienstraße,49.177722,9.529580
+de:08126:10171:0:1,Oberohrn Mitte,49.178861,9.530164
+de:08126:10171:0:2,Oberohrn Mitte,49.178861,9.530164
+de:08126:10173:0:1,Untersteinbach Ortsrand,49.146418,9.564004
+de:08126:10174:0:1,Untersteinbach Bühl,49.137832,9.571055
+de:08126:10174:0:2,Untersteinbach Bühl,49.137832,9.571055
+de:08126:10175:0:1,Untersteinbach Holdergasse,49.143779,9.567273
+de:08126:10175:0:2,Untersteinbach Holdergasse,49.143779,9.567273
+de:08126:10176:0:1,Untersteinbach Schule,49.141863,9.569384
+de:08126:10176:0:2,Untersteinbach Schule,49.141863,9.569384
+de:08126:10177:0:1,Untersteinbach Schuppach,49.115194,9.601724
+de:08126:10178:0:1,Untersteinbach Kohlhof,49.119780,9.584719
+de:08126:10178:0:2,Untersteinbach Kohlhof,49.119780,9.584719
+de:08126:10179:0:1,Untersteinbach Ohnholz,49.122443,9.580694
+de:08126:10179:0:2,Untersteinbach Ohnholz,49.122443,9.580694
+de:08126:10180:0:1,Windischenbach Ort,49.179777,9.484386
+de:08126:10180:0:2,Windischenbach Ort,49.179777,9.484386
+de:08126:10181:0:1,Pfedelbach Stöckig,49.169946,9.471082
+de:08126:10182:0:1,Windischenbach Bachstraße,49.180863,9.486524
+de:08126:10182:0:2,Windischenbach Bachstraße,49.180863,9.486524
+de:08126:10183:0:1,Untersteinbach Floßholz Abzw.,49.125835,9.577667
+de:08126:10183:0:2,Untersteinbach Floßholz Abzw.,49.125835,9.577667
+de:08126:10184:0:1,Windischenbach Häldenstraße,49.179689,9.489300
+de:08126:10184:0:2,Windischenbach Häldenstraße,49.179689,9.489300
+de:08126:10185:0:1,Pfedelbach Floßholz L 1049,49.128416,9.570310
+de:08126:10186:0:1,Windischenbach Schlaghälde,49.180887,9.484278
+de:08126:10186:0:2,Windischenbach Schlaghälde,49.180887,9.484278
+de:08126:10191:0:1,Unterheimbach Friedhof,49.137943,9.467471
+de:08126:10191:0:2,Unterheimbach Friedhof,49.137943,9.467471
+de:08126:10192:0:1,Unterheimbach Post,49.140582,9.464470
+de:08126:10192:0:2,Unterheimbach Post,49.140582,9.464470
+de:08126:10193:0:1,Unterheimbach Siedlung,49.137197,9.470390
+de:08126:10193:0:2,Unterheimbach Siedlung,49.137197,9.470390
+de:08126:10194:0:1,Unterheimbach Vogelsang,49.135692,9.468333
+de:08126:10194:0:2,Unterheimbach Vogelsang,49.135692,9.468333
+de:08126:10195:0:1,Unterheimbach Schule,49.137250,9.464219
+de:08126:10196:0:1,Pfedelbach Realschule,49.180194,9.502999
+de:08126:10196:0:2,Pfedelbach Realschule,49.180194,9.502999
+de:08126:10201:0:1,Zweiflingen Heiligenhaus Abzw.,49.284139,9.690917
+de:08126:10202:0:1,Sindringen Schießhof Abzweig,49.265724,9.492641
+de:08126:10203:0:1,Öhringen Huberinusplatz,49.211447,9.485527
+de:08126:10204:0:1,Öhringen Lindenallee,49.212973,9.485275
+de:08126:10205:0:1,Öhringen Huflattichweg,49.213835,9.487808
+de:08126:10206:0:1,Öhringen Am Römerwall,49.200278,9.514111
+de:08126:10206:0:2,Öhringen Am Römerwall,49.200278,9.514111
+de:08126:10207:0:nOehr,Baumerlenbach Bolzplatz,49.235408,9.441383
+de:08126:10207:0:vOehr,Baumerlenbach Bolzplatz,49.235613,9.441527
+de:08126:10208:0:1,Öhringen Wollreffen Ost,49.206470,9.514111
+de:08126:10209:0:1,Öhringen Otto-Röhm-Str,49.203724,9.509916
+de:08126:10210:0:1,Verrenberg Grundschule,49.187668,9.468028
+de:08126:10212:0:1,Baumerlenbach Lindich,49.225418,9.451975
+de:08126:10212:0:2,Baumerlenbach Lindich,49.225641,9.452029
+de:08126:10213:0:nOehr,Baumerlenbach Mitte,49.237860,9.439138
+de:08126:10213:0:vOehr,Baumerlenbach Mitte,49.237672,9.438572
+de:08126:10216:0:1,Verrenberg Golberg,49.186447,9.469887
+de:08126:10217:0:1,Verrenberg Ort,49.188778,9.464219
+de:08126:10218:0:1,Verrenberg Reiterhof Benner,49.186946,9.473058
+de:08126:10219:0:nOehr,Öhringen Austraße,49.205555,9.491581
+de:08126:10219:0:vOehr,Öhringen Austraße,49.205555,9.491581
+de:08126:10220:1:2,Öhringen Hauptbahnhof,49.203002,9.503035
+de:08126:10220:1:3,Öhringen Hauptbahnhof,49.202961,9.502945
+de:08126:10220:1:4,Öhringen Hauptbahnhof,49.202855,9.502990
+de:08126:10220:1:5,Öhringen Hauptbahnhof,49.202908,9.502702
+de:08126:10220:1:6,Öhringen Hauptbahnhof,49.202855,9.502676
+de:08126:10220:1:7,Öhringen Hauptbahnhof,49.202785,9.502999
+de:08126:10220:1:nFina,Öhringen Hauptbahnhof,49.203055,9.503098
+de:08126:10222:0:1,Öhringen Im Brenntenstock/EKZ,49.203859,9.488671
+de:08126:10222:0:2,Öhringen Im Brenntenstock/EKZ,49.203859,9.488671
+de:08126:10223:0:1,Öhringen Rettungswache,49.206582,9.496747
+de:08126:10223:0:2,Öhringen Rettungswache,49.206582,9.496747
+de:08126:10225:0:1,Öhringen Chr.-Schöck-Str.,49.207914,9.512180
+de:08126:10226:0:nMAHL,Öhringen TÜV,49.195529,9.491114
+de:08126:10227:0:1,Öhringen EKZ,49.204581,9.489551
+de:08126:10227:0:2,Öhringen EKZ,49.204581,9.489551
+de:08126:10228:0:1,Öhringen MAHLE,49.196386,9.494501
+de:08126:10228:0:2,Öhringen MAHLE,49.196386,9.494501
+de:08126:10229:0:1,Öhringen Friedhof,49.194778,9.499999
+de:08126:10229:0:2,Öhringen Friedhof,49.194778,9.499999
+de:08126:10230:0:1,Öhringen Geschw Scholl Straße,49.204058,9.511281
+de:08126:10230:0:2,Öhringen Geschw Scholl Straße,49.204058,9.511281
+de:08126:10231:0:1,Öhringen Hallenbad,49.198388,9.511416
+de:08126:10231:0:2,Öhringen Hallenbad,49.198418,9.511425
+de:08126:10231:0:3,Öhringen Hallenbad,49.198388,9.511416
+de:08126:10231:0:4,Öhringen Hallenbad,49.198376,9.511973
+de:08126:10232:0:1,Öhringen Heilbronner Straße,49.201611,9.497079
+de:08126:10232:0:2,Öhringen Heilbronner Straße,49.201611,9.497079
+de:08126:10233:0:1,Öhringen Hofgarten,49.198664,9.505415
+de:08126:10233:0:2,Öhringen Hofgarten,49.198664,9.505415
+de:08126:10234:0:1,Öhringen Kastellstraße,49.204058,9.498642
+de:08126:10234:0:2,Öhringen Kastellstraße,49.204058,9.498642
+de:08126:10235:0:1,Öhringen Meisterhausstraße,49.206805,9.502613
+de:08126:10236:0:1,Öhringen Merzbacher Str.,49.205279,9.510554
+de:08126:10236:0:2,Öhringen Merzbacher Str.,49.205279,9.510554
+de:08126:10237:0:1,Öhringen Münzstraße,49.194220,9.508254
+de:08126:10238:0:1,Öhringen Nußknacker,49.196692,9.506889
+de:08126:10239:0:1,Öhringen Panoramastraße,49.195054,9.510805
+de:08126:10240:0:1,Öhringen Penny Markt Nord,49.205807,9.512305
+de:08126:10241:0:1,Öhringen Penny Markt Süd,49.192306,9.507059
+de:08126:10242:0:1,Öhringen Pfedelbacher Straße,49.197056,9.500331
+de:08126:10242:0:2,Öhringen Pfedelbacher Straße,49.197056,9.500331
+de:08126:10243:0:1,Öhringen Platanenallee,49.191250,9.506197
+de:08126:10244:0:1,Öhringen Rose,49.201082,9.508946
+de:08126:10244:0:2,Öhringen Rose,49.201082,9.508946
+de:08126:10245:0:1,Öhringen Roter Platz,49.208583,9.517615
+de:08126:10246:0:1,Öhringen Schwalbenstraße,49.193668,9.511775
+de:08126:10246:0:2,Öhringen Schwalbenstraße,49.193668,9.511775
+de:08126:10247:0:1,Öhringen Siedlungsweg,49.192665,9.500663
+de:08126:10248:0:nHbf,Öhringen Kultura,49.200308,9.496944
+de:08126:10248:0:nSued,Öhringen Kultura,49.200308,9.496944
+de:08126:10249:0:1,Öhringen Starenweg,49.194414,9.514192
+de:08126:10250:0:1,Öhringen Wollreffen West,49.206406,9.513904
+de:08126:10250:0:nOst,Öhringen Verrenberger Weg,49.194250,9.484943
+de:08126:10251:0:1,Öhringen Hohenlohestraße,49.203835,9.504364
+de:08126:10251:0:2,Öhringen Hohenlohestraße,49.203835,9.504364
+de:08126:10252:0:1,Cappel Eckartsweiler Straße,49.200196,9.528754
+de:08126:10252:0:2,Cappel Eckartsweiler Straße,49.200196,9.528754
+de:08126:10253:0:1,Cappel Landesstraße,49.197919,9.530191
+de:08126:10253:0:2,Cappel Landesstraße,49.197919,9.530191
+de:08126:10254:0:1,Cappel Schule,49.201775,9.530029
+de:08126:10256:0:1,Cappel Tannhof,49.191109,9.528583
+de:08126:10256:0:2,Cappel Tannhof,49.191109,9.528583
+de:08126:10257:0:1,Ohrnberg Kraftwerk,49.255359,9.444303
+de:08126:10257:0:2,Ohrnberg Kraftwerk,49.255359,9.444303
+de:08126:10258:0:1,Ohrnberg Post,49.249970,9.456170
+de:08126:10259:0:1,Ohrnberg Siedlung,49.252697,9.455227
+de:08126:10259:0:2,Ohrnberg Siedlung,49.252697,9.455227
+de:08126:10260:0:1,Möglingen Mitte,49.246252,9.433469
+de:08126:10260:0:2,Möglingen Mitte,49.246252,9.433469
+de:08126:10261:0:1,Möglingen Mühle,49.243971,9.432140
+de:08126:10261:0:2,Möglingen Mühle,49.243971,9.432140
+de:08126:10262:0:1,Büttelbronn (Öhr),49.216693,9.492614
+de:08126:10263:0:1,Öhringen Ginsterweg,49.212527,9.489219
+de:08126:10264:0:1,Öhringen Salbeiweg,49.210860,9.490306
+de:08126:10265:0:1,Öhringen Großenhainer Ring,49.209194,9.490476
+de:08126:10265:0:2,Öhringen Großenhainer Ring,49.209194,9.490476
+de:08126:10266:0:1,Büttelbronn Möhrig,49.210027,9.483083
+de:08126:10266:0:2,Büttelbronn Möhrig,49.210027,9.483083
+de:08126:10267:0:1,Sch'bronn U'ohrn Hohe Steige,49.211864,9.476579
+de:08126:10267:0:2,Sch'bronn U'ohrn Hohe Steige,49.211864,9.476579
+de:08126:10268:0:1,Sch'bronn U'ohrn Landesstr.,49.210749,9.475609
+de:08126:10268:0:2,Sch'bronn U'ohrn Landesstr.,49.210749,9.475609
+de:08126:10269:0:nOehr,Schwöllbronn,49.209029,9.454804
+de:08126:10269:0:vOehr,Schwöllbronn,49.209029,9.454804
+de:08126:10270:0:1,Büttelbronn Obermaßholderbach,49.228498,9.513833
+de:08126:10271:0:1,Büttelbronn Untermaßholderbach,49.216194,9.513365
+de:08126:10272:0:1,Zweiflingen Platzfeld,49.234669,9.532913
+de:08126:10273:0:1,Öhringen Platzhof,49.227137,9.535886
+de:08126:10273:0:2,Öhringen Platzhof,49.227137,9.535886
+de:08126:10274:0:1,Michelbach Mitte,49.177498,9.556278
+de:08126:10274:0:2,Michelbach Mitte,49.177498,9.556278
+de:08126:10275:0:1,Michelbach Siedlung,49.179055,9.548885
+de:08126:10275:0:2,Michelbach Siedlung,49.179055,9.548885
+de:08126:10276:0:1,Eckartsweiler Weinsbach,49.214000,9.542803
+de:08126:10276:0:2,Eckartsweiler Weinsbach,49.214000,9.542803
+de:08126:10277:0:1,Öhringen-Weidenhof,49.213055,9.529221
+de:08126:10278:0:1,Eckartsweiler,49.205138,9.538779
+de:08126:10278:0:2,Eckartsweiler,49.205138,9.538779
+de:08126:10279:0:1,Eckartsw. U'söllbach Landesstr,49.194250,9.545085
+de:08126:10279:0:2,Eckartsw. U'söllbach Landesstr,49.194250,9.545085
+de:08126:10280:0:1,Eckartsw. Untersöllbach Ort,49.192753,9.545804
+de:08126:10282:0:1,Öhringen-Weidenhof Abzweig,49.213583,9.525780
+de:08126:10284:0:1,Ohrnberg Kindergarten,49.251999,9.456610
+de:08126:10285:0:1,Michelbach Schule,49.177193,9.559781
+de:08126:10291:0:1,Zweiflingen Kirche,49.254473,9.514165
+de:08126:10292:0:1,Zweiflingen Schule,49.255019,9.519285
+de:08126:10293:0:1,Zweifl. Friedrichsruhe Schönau,49.241918,9.527496
+de:08126:10295:0:1,Zweiflingen Pfahlbach,49.252028,9.497914
+de:08126:10296:0:1,Zweiflingen Eichach,49.269528,9.473444
+de:08126:10297:0:1,Westernbach Oberweiler,49.233308,9.496531
+de:08126:10298:0:1,Westernbach Unterweiler,49.227723,9.499720
+de:08126:10301:0:1,Forchtenberg Brücke,49.289910,9.562189
+de:08126:10302:0:1,Forchtenberg Kupferbrücke,49.286529,9.562611
+de:08126:10302:0:2,Forchtenberg Kupferbrücke,49.286529,9.562611
+de:08126:10303:0:1,Forchtenberg Neuwülfingen,49.292974,9.558587
+de:08126:10303:0:2,Forchtenberg Neuwülfingen,49.292992,9.558596
+de:08126:10304:0:1,Ernsbach Mitte,49.290724,9.513698
+de:08126:10304:0:2,Ernsbach Mitte,49.290724,9.513698
+de:08126:10305:0:1,Ernsbach Schule,49.290414,9.510302
+de:08126:10305:0:2,Ernsbach Schule,49.290414,9.510302
+de:08126:10306:0:1,Ernsbach Waldbergsiedlung,49.290443,9.517471
+de:08126:10306:0:2,Ernsbach Waldbergsiedlung,49.290443,9.517471
+de:08126:10307:0:1,Sindringen Am Kaibach,49.278859,9.480227
+de:08126:10307:0:2,Sindringen Am Kaibach,49.278859,9.480227
+de:08126:10308:0:1,Sindringen Post,49.279919,9.477496
+de:08126:10308:0:2,Sindringen Post,49.279919,9.477496
+de:08126:10309:0:1,Muthof Abzweig,49.319859,9.548310
+de:08126:10309:0:2,Muthof Abzweig,49.319671,9.549082
+de:08126:10310:0:1,Muthof Schleierhof,49.314530,9.568971
+de:08126:10311:0:1,Muthof Tiroler Seen,49.316333,9.558335
+de:08126:10311:0:2,Muthof Tiroler Seen,49.314811,9.560536
+de:08126:10312:0:1,Muthof Ort,49.305001,9.546190
+de:08126:10313:0:1,Wohlmuthausen Orbachshof Abzw.,49.258138,9.577748
+de:08126:10313:0:2,Wohlmuthausen Orbachshof Abzw.,49.258138,9.577748
+de:08126:10315:0:1,Wohlmuthausen Müller & M,49.260565,9.577478
+de:08126:10315:0:2,Wohlmuthausen Müller & M,49.260811,9.577487
+de:08126:10317:0:1,Metzdorf-Zweiflingen Metzdorf,49.245062,9.560770
+de:08126:10317:0:2,Metzdorf-Zweiflingen Metzdorf,49.245103,9.560662
+de:08126:10318:0:1,Metzdorf Abzw Hohensall,49.247085,9.563051
+de:08126:10318:0:2,Metzdorf Abzw Hohensall,49.247085,9.563051
+de:08126:10319:0:1,Forchtenberg Büschelhof,49.298891,9.575861
+de:08126:10320:0:1,Forchtenberg Rauhbuschhof,49.277165,9.555496
+de:08126:10320:0:2,Forchtenberg Rauhbuschhof,49.277165,9.555496
+de:08126:10321:0:1,Wohlmuthausen Schwarzenweiler,49.270442,9.566833
+de:08126:10321:0:2,Wohlmuthausen Schwarzenweiler,49.270442,9.566833
+de:08126:10322:0:1,W'hausen Schwarzenweiler Karle,49.272418,9.565387
+de:08126:10322:0:2,W'hausen Schwarzenweiler Karle,49.272418,9.565387
+de:08126:10323:0:1,Sindringen Mühle,49.280974,9.476364
+de:08126:10323:0:2,Sindringen Mühle,49.280974,9.476364
+de:08126:10324:0:1,Sindringen Aussiedler,49.299096,9.481772
+de:08126:10325:0:1,Ernsbach Aussiedler,49.298100,9.502738
+de:08126:10327:0:1,Forchtenberg Waldfeld,49.280581,9.551750
+de:08126:10401:0:1,Winzenhofen,49.356442,9.573831
+de:08126:10401:0:2,Winzenhofen,49.356442,9.573831
+de:08126:10402:0:1,Westernhausen Bahnhof,49.343691,9.558955
+de:08126:10403:0:1,Westernhausen Brücke,49.345136,9.555443
+de:08126:10403:0:2,Westernhausen Brücke,49.344990,9.555739
+de:08126:10404:0:1,Westernhausen Ochsen,49.342415,9.562198
+de:08126:10404:0:2,Westernhausen Ochsen,49.342772,9.561336
+de:08126:10405:0:1,Bieringen (Schöntal) Bahnhof,49.341987,9.524100
+de:08126:10405:0:2,Bieringen (Schöntal) Bahnhof,49.342087,9.524091
+de:08126:10406:0:1,Bieringen Grundschule,49.343041,9.531511
+de:08126:10406:0:2,Bieringen Grundschule,49.342684,9.532509
+de:08126:10407:0:1,Bieringen Max-Eyth-Schule,49.341221,9.519941
+de:08126:10408:0:1,Bieringen Sonne,49.344428,9.528484
+de:08126:10408:0:2,Bieringen Sonne,49.344381,9.528529
+de:08126:10409:0:1,Bieringen Ziegelhütte,49.350754,9.528951
+de:08126:10409:0:2,Bieringen Ziegelhütte,49.350561,9.528978
+de:08126:10410:0:1,Schöntal Kloster,49.330023,9.505676
+de:08126:10410:0:2,Schöntal Kloster,49.330005,9.505703
+de:08126:10411:0:1,Berlichingen Brücke,49.329396,9.483919
+de:08126:10411:0:2,Berlichingen Brücke,49.329818,9.484260
+de:08126:10412:0:1,Berlichingen Mitte,49.327195,9.486668
+de:08126:10412:0:2,Berlichingen Mitte,49.326850,9.487269
+de:08126:10413:0:1,Schöntal Rossach Mitte,49.351275,9.484107
+de:08126:10413:0:2,Schöntal Rossach Mitte,49.351275,9.484107
+de:08126:10414:0:1,Schöntal Rossach Schloß,49.346055,9.484440
+de:08126:10414:0:2,Schöntal Rossach Schloß,49.346055,9.484449
+de:08126:10416:0:1,Oberkessach Rathaus,49.365867,9.488976
+de:08126:10416:0:2,Oberkessach Rathaus,49.365850,9.489066
+de:08126:10418:0:1,Aschhausen Alter Weg,49.371641,9.540081
+de:08126:10418:0:2,Aschhausen Alter Weg,49.371208,9.541231
+de:08126:10419:0:1,Aschhausen Brücke,49.370945,9.543414
+de:08126:10419:0:2,Aschhausen Brücke,49.370898,9.543342
+de:08126:10420:0:1,Schöntal Eichelshof,49.306664,9.526220
+de:08126:10421:0:1,Schöntal Halsberg Abzweig,49.330333,9.529607
+de:08126:10421:0:2,Schöntal Halsberg Abzweig,49.330351,9.529598
+de:08126:10422:0:1,Schöntal Neuhof,49.315414,9.515746
+de:08126:10425,Westernhausen Hohe Straße,49.329771,9.579832
+de:08126:10427:0:1,Schöntal Hopfengarten Abzweig,49.390777,9.472303
+de:08126:10427:0:2,Schöntal Hopfengarten Abzweig,49.391180,9.472339
+de:08126:10429:0:1,Berlichingen Ziegelhütte,49.319308,9.502226
+de:08126:10429:0:2,Berlichingen Ziegelhütte,49.319572,9.501696
+de:08126:10431:0:1,Bieringen Rauhalde,49.341414,9.534476
+de:08126:10431:0:2,Bieringen Rauhalde,49.341437,9.534512
+de:08126:10433:0:1,Oberkessach Unterkessacher Str,49.365979,9.486308
+de:08126:10433:0:2,Oberkessach Unterkessacher Str,49.366043,9.486721
+de:08126:10434:0:1,Schöntal Weltersberg,49.357086,9.531080
+de:08126:10435:0:1,Oberkessach Angelweg,49.367622,9.482841
+de:08126:10435:0:2,Oberkessach Angelweg,49.367652,9.483056
+de:08126:10501:0:1,Dörzbach Bahnhof,49.384520,9.701760
+de:08126:10501:0:2,Dörzbach Bahnhof,49.384198,9.701634
+de:08126:10502:0:1,Dörzbach Brücke,49.382140,9.705973
+de:08126:10502:0:2,Dörzbach Brücke,49.382140,9.705973
+de:08126:10503:0:1,Dörzbach Glaswiesenstr.,49.381163,9.712639
+de:08126:10503:0:2,Dörzbach Glaswiesenstr.,49.379987,9.714067
+de:08126:10504:0:1,Dörzbach Kindergarten,49.384192,9.703108
+de:08126:10505:0:1,Dörzbach Rathaus,49.383473,9.707698
+de:08126:10505:0:2,Dörzbach Rathaus,49.383473,9.707698
+de:08126:10506:0:1,O'ginsbach Wendischenhof L515,49.343029,9.707195
+de:08126:10506:0:2,O'ginsbach Wendischenhof L515,49.343029,9.707195
+de:08126:10507:0:1,Oberginsbach Wendischenhof Ort,49.344498,9.710609
+de:08126:10508:0:1,Dörzbach Laibach,49.399558,9.691636
+de:08126:10509:0:1,Meßbach,49.371723,9.695364
+de:08126:10510:0:1,Meßbach Am Tannenwald,49.371723,9.695364
+de:08126:10510:0:2,Meßbach Am Tannenwald,49.371723,9.695364
+de:08126:10521:0:1,Gommersdorf Schmiede,49.368359,9.612279
+de:08126:10521:0:2,Gommersdorf Schmiede,49.368359,9.612279
+de:08126:10522:0:1,Gommersdorf Schule,49.370109,9.614893
+de:08126:10522:0:2,Gommersdorf Schule,49.370109,9.614893
+de:08126:10523:0:1,Krautheim Bahnhof,49.383876,9.634476
+de:08126:10523:0:2,Krautheim Bahnhof,49.383929,9.634674
+de:08126:10523:0:6,Krautheim Bahnhof,49.383894,9.634827
+de:08126:10523:0:7,Krautheim Bahnhof,49.383836,9.634557
+de:08126:10524:0:1,Krautheim Brücke,49.380280,9.636587
+de:08126:10525:0:1,Krautheim Mälzerei,49.391081,9.633219
+de:08126:10525:0:2,Krautheim Mälzerei,49.390730,9.633246
+de:08126:10526:0:1,Altkrautheim,49.378326,9.638968
+de:08126:10526:0:2,Altkrautheim,49.378151,9.639139
+de:08126:10527:0:1,Oberginsbach Aussiedl Schmieg,49.351808,9.697637
+de:08126:10527:0:2,Oberginsbach Aussiedl Schmieg,49.351808,9.697637
+de:08126:10528:0:1,Oberginsbach Landesstraße,49.363083,9.679976
+de:08126:10528:0:2,Oberginsbach Landesstraße,49.363083,9.679976
+de:08126:10529:0:1,Unterginsbach,49.369389,9.659890
+de:08126:10529:0:2,Unterginsbach,49.369389,9.659890
+de:08126:10530:0:1,Neunstetten,49.409776,9.612135
+de:08126:10530:0:2,Neunstetten,49.410010,9.611911
+de:08126:10531,Oberndorf (bei Krautheim),49.407876,9.591528
+de:08126:10532,Oberndorf (Krauth.) Aussiedler,49.404936,9.585294
+de:08126:10533:0:1,Klepsau,49.387806,9.673113
+de:08126:10533:0:2,Klepsau,49.387806,9.673113
+de:08126:10535:0:1,Klepsau Laibacher Straße,49.388777,9.675026
+de:08126:10561:0:1,Krautheim Jagststraße,49.380724,9.631251
+de:08126:10562:0:1,Krautheim Eduard-Knoll-Str.,49.391443,9.630497
+de:08126:10563:0:1,Krautheim Alte-Burg-Str.,49.392835,9.631719
+de:08126:10564:0:1,Krautheim Aussiedler Weeth,49.396033,9.633237
+de:08126:10565:0:1,Krautheim Stadtweinberge,49.392694,9.637108
+de:08126:10566:0:1,Krautheim Ev. Gemeindehaus,49.390028,9.637638
+de:08126:10567:0:1,Krautheim Kindergarten,49.390578,9.635258
+de:08126:10568:0:1,Krautheim Römerstraße,49.390414,9.632141
+de:08126:10601:0:1,Ailringen,49.372554,9.751392
+de:08126:10601:0:2,Ailringen,49.372513,9.751536
+de:08126:10603:0:1,Mulfingen Post,49.340472,9.799443
+de:08126:10603:0:2,Mulfingen Post,49.340331,9.798823
+de:08126:10604,Mulfingen Schule,49.203019,9.482203
+de:08126:10605:0:1,Mulfingen Siedlung,49.338581,9.801698
+de:08126:10605:0:2,Mulfingen Siedlung,49.338441,9.801823
+de:08126:10606:0:1,Mulfingen EBM alt,49.348197,9.791502
+de:08126:10606:0:2,Mulfingen EBM alt,49.348232,9.791547
+de:08126:10607:0:1,Mulfingen EBM neu,49.349777,9.792975
+de:08126:10607:0:2,Mulfingen EBM neu,49.349771,9.792706
+de:08126:10609:0:1,Buchenbach Berndshofen Mitte,49.307303,9.802210
+de:08126:10609:0:2,Buchenbach Berndshofen Mitte,49.307572,9.801743
+de:08126:10610:0:1,Buchenbach Mitte,49.302834,9.805776
+de:08126:10610:0:2,Buchenbach Mitte,49.302517,9.805444
+de:08126:10611:0:1,Buchenbach Siedlung,49.304192,9.808004
+de:08126:10611:0:2,Buchenbach Siedlung,49.303917,9.807276
+de:08126:10612:0:1,Eberbach (Mulfingen),49.299553,9.828225
+de:08126:10612:0:2,Eberbach (Mulfingen),49.299788,9.828450
+de:08126:10613:0:1,Mulfingen Heimhausen,49.314975,9.804662
+de:08126:10613:0:2,Mulfingen Heimhausen,49.314998,9.804743
+de:08126:10614:0:1,Heimhausen Auss. Metzger,49.326639,9.811696
+de:08126:10614:0:2,Heimhausen Auss. Metzger,49.326621,9.811597
+de:08126:10616:0:1,Hollenbach Rathaus,49.374583,9.805246
+de:08126:10617:0:1,Hollenbach Vorstadt,49.376747,9.808417
+de:08126:10618:0:1,Hollenbacher Seen,49.384169,9.825746
+de:08126:10618:0:2,Hollenbacher Seen,49.384409,9.826024
+de:08126:10619:0:1,Hollenbach Löhleinsberg,49.366148,9.799326
+de:08126:10620:0:1,Simprechtshausen Im Sommerrain,49.328776,9.837388
+de:08126:10620:0:2,Simprechtshausen Im Sommerrain,49.328799,9.837594
+de:08126:10621:0:1,Simprechtshausen Kirche,49.327054,9.837226
+de:08126:10621:0:2,Simprechtshausen Kirche,49.327388,9.837603
+de:08126:10622:0:1,Zaisenhausen Staigerbach,49.374946,9.840388
+de:08126:10622:0:2,Zaisenhausen Staigerbach,49.375092,9.840882
+de:08126:10623:0:1,Zaisenhausen (Württ),49.362585,9.836696
+de:08126:10623:0:2,Zaisenhausen (Württ),49.362152,9.836678
+de:08126:10624:0:1,Jagstberg Hasenklinge,49.328056,9.783992
+de:08126:10624:0:2,Jagstberg Hasenklinge,49.328003,9.783624
+de:08126:10625:0:1,Jagstberg Railhöfe,49.315525,9.768415
+de:08126:10625:0:2,Jagstberg Railhöfe,49.315525,9.768415
+de:08126:10626:0:1,Jagstberg Seidelklingen,49.336275,9.748940
+de:08126:10626:0:2,Jagstberg Seidelklingen,49.336029,9.748922
+de:08126:10627:0:1,Jagstberg,49.334109,9.793586
+de:08126:10627:0:2,Jagstberg,49.334642,9.794134
+de:08126:10628:0:1,Jagstberg Hohenrot,49.333125,9.767876
+de:08126:10629:0:1,Jagstberg Hohenrot Abzweig,49.329712,9.773580
+de:08126:10629:0:2,Jagstberg Hohenrot Abzweig,49.329619,9.773949
+de:08126:10630:0:1,Albertshof,49.389443,9.785555
+de:08126:10631:0:1,Hollenbach Atzenweiler,49.395612,9.786750
+de:08126:10632:0:1,Hollenbach Seelach Abzweig,49.373501,9.784890
+de:08126:10632:0:2,Hollenbach Seelach Abzweig,49.373618,9.784603
+de:08126:10633:0:1,Mulfingen Ochsental Ort,49.347553,9.835016
+de:08126:10633:0:2,Mulfingen Ochsental Ort,49.347518,9.835160
+de:08126:10635:0:1,Mulfingen Kindergarten,49.340676,9.801716
+de:08126:10635:0:2,Mulfingen Kindergarten,49.340753,9.801545
+de:08126:10636:0:1,Mulfingen Wiesenweg,49.342614,9.805084
+de:08126:10637:0:1,Jagstberg Kindergarten,49.337118,9.790792
+de:08126:10638:0:1,Jagstberg Hohenrot Mitte,49.334249,9.768586
+de:08126:10638:0:2,Jagstberg Hohenrot Mitte,49.334085,9.767930
+de:08126:10701,Künzelsau Schippberg,49.271497,9.689444
+de:08126:10701:0:1,Künzelsau Schippberg,49.271497,9.689444
+de:08126:10702:0:1,Künzelsau Bahnhof,49.278882,9.684575
+de:08126:10702:0:10,Künzelsau Bahnhof,49.278431,9.684935
+de:08126:10702:0:2,Künzelsau Bahnhof,49.278794,9.684584
+de:08126:10702:0:3,Künzelsau Bahnhof,49.278706,9.684836
+de:08126:10702:0:4,Künzelsau Bahnhof,49.278700,9.684611
+de:08126:10702:0:5,Künzelsau Bahnhof,49.278700,9.684926
+de:08126:10702:0:6,Künzelsau Bahnhof,49.278636,9.684845
+de:08126:10702:0:7,Künzelsau Bahnhof,49.279111,9.684216
+de:08126:10702:0:8,Künzelsau Bahnhof,49.278583,9.684575
+de:08126:10702:0:9,Künzelsau Bahnhof,49.278466,9.684881
+de:08126:10703:0:1,Künzelsau Bären,49.279843,9.690280
+de:08126:10703:0:2,Künzelsau Bären,49.279761,9.690091
+de:08126:10704:0:1,Künzelsau Hochschule,49.275500,9.711696
+de:08126:10706:0:1,Künzelsau Hofratsmühle,49.274973,9.712028
+de:08126:10707:0:1,Künzelsau Kappensteige,49.288029,9.673337
+de:08126:10707:0:2,Künzelsau Kappensteige,49.288059,9.681180
+de:08126:10707:0:3,Künzelsau Kappensteige,49.287168,9.682132
+de:08126:10708:0:1,Künzelsau Komburgstraße,49.277692,9.689085
+de:08126:10708:0:2,Künzelsau Komburgstraße,49.277698,9.689256
+de:08126:10709:0:1,Künzelsau Kreiskrankenhaus,49.276919,9.689777
+de:08126:10709:0:2,Künzelsau Kreiskrankenhaus,49.276919,9.689777
+de:08126:10710,Künzelsau Landratsamt,49.277640,9.687163
+de:08126:10710:0:1,Künzelsau Landratsamt,49.277640,9.687163
+de:08126:10711:0:1,Künzelsau Langenburger Straße,49.279890,9.704608
+de:08126:10711:0:2,Künzelsau Langenburger Straße,49.279609,9.705650
+de:08126:10712:0:1,Künzelsau Milchwerke,49.289400,9.679644
+de:08126:10713:0:1,Künzelsau Morsbacher Straße,49.277276,9.696110
+de:08126:10713:0:2,Künzelsau Morsbacher Straße,49.277434,9.695050
+de:08126:10714:0:1,Künzelsau Sprachheilschule,49.285141,9.682024
+de:08126:10715:0:1,Künzelsau Stadthalle,49.280751,9.684917
+de:08126:10715:0:2,Künzelsau Stadthalle,49.280751,9.684917
+de:08126:10716:0:1,Künzelsau Stahl,49.275723,9.707141
+de:08126:10717:0:1,Künzelsau Nagelsberg,49.292834,9.676419
+de:08126:10718:0:1,Künzelsau Garnberg Am Buchs,49.287086,9.699748
+de:08126:10719:0:1,Künzelsau Garnberg Berner,49.284859,9.710141
+de:08126:10720:0:1,Künzelsau Garnberg Berner Abzw,49.283611,9.709584
+de:08126:10720:0:2,Künzelsau Garnberg Berner Abzw,49.283681,9.709872
+de:08126:10721:0:1,Künzelsau Garnberg Buchs Abzw.,49.285193,9.704473
+de:08126:10721:0:2,Künzelsau Garnberg Buchs Abzw.,49.285100,9.704563
+de:08126:10722:0:1,Künzelsau Garnberg Mitte,49.284197,9.705668
+de:08126:10722:0:2,Künzelsau Garnberg Mitte,49.284062,9.705955
+de:08126:10723:0:1,Amrichshausen Mitte,49.282556,9.742193
+de:08126:10723:0:2,Amrichshausen Mitte,49.282609,9.742148
+de:08126:10724:0:1,Amrichshausen Schule,49.283722,9.738196
+de:08126:10724:0:2,Amrichshausen Schule,49.283781,9.737747
+de:08126:10725:0:1,Belsenberg B 19,49.304890,9.684423
+de:08126:10725:0:2,Belsenberg B 19,49.304931,9.683363
+de:08126:10726:0:1,Belsenberg Mitte/Linde,49.304749,9.686722
+de:08126:10726:0:2,Belsenberg Mitte/Linde,49.304901,9.686920
+de:08126:10727:0:1,Laßbach Kügelhof,49.280640,9.763483
+de:08126:10727:0:2,Laßbach Kügelhof,49.280359,9.763412
+de:08126:10728:0:Bus,Nitzenhausen Sonnhofen,49.286225,9.818308
+de:08126:10729:0:1,Laßbach Bienenhof,49.269182,9.798608
+de:08126:10729:0:2,Laßbach Bienenhof,49.269223,9.798230
+de:08126:10730:0:1,Laßbach,49.264616,9.809836
+de:08126:10730:0:2,Laßbach,49.264563,9.809729
+de:08126:10731:0:1,Laßbach Mäusdorf,49.272863,9.779051
+de:08126:10731:0:2,Laßbach Mäusdorf,49.272857,9.779608
+de:08126:10732:0:1,Nitzenhausen Mitte,49.283465,9.798302
+de:08126:10732:0:2,Nitzenhausen Mitte,49.283400,9.798338
+de:08126:10733:0:1,K'stetten Schloß Stetten See,49.267277,9.772610
+de:08126:10734:0:1,K'stetten Schloß Stetten Abzw.,49.270120,9.793056
+de:08126:10734:0:2,K'stetten Schloß Stetten Abzw.,49.270196,9.792768
+de:08126:10735:0:1,Laßbach Vogelsberg,49.262488,9.786112
+de:08126:10735:0:2,Laßbach Vogelsberg,49.262517,9.786139
+de:08126:10736:0:1,Gaisbach Haag,49.247249,9.702641
+de:08126:10736:0:2,Gaisbach Haag,49.248569,9.701068
+de:08126:10737,Gaisbach Altes Rathaus,49.255564,9.686282
+de:08126:10737:0:1,Gaisbach Altes Rathaus,49.255558,9.686282
+de:08126:10737:0:2,Gaisbach Altes Rathaus,49.255540,9.686327
+de:08126:10738:0:1,Gaisbach Grundschule,49.259427,9.687441
+de:08126:10738:0:2,Gaisbach Grundschule,49.259445,9.687468
+de:08126:10739:0:1,Gaisbach Kindergarten,49.257803,9.684602
+de:08126:10740:0:1,Gaisbach Maybachstraße,49.255276,9.685698
+de:08126:10740:0:2,Gaisbach Maybachstraße,49.255276,9.685698
+de:08126:10742:0:1,Gaisbach Unterhof Abzweig,49.255529,9.678718
+de:08126:10742:0:2,Gaisbach Unterhof Abzweig,49.255529,9.678718
+de:08126:10743:0:1,Gaisbach Sternwiesen,49.257053,9.689947
+de:08126:10743:0:2,Gaisbach Sternwiesen,49.256971,9.689857
+de:08126:10745:0:1,Gaisbach Oberhof Abzweig,49.255968,9.696505
+de:08126:10745:0:2,Gaisbach Oberhof Abzweig,49.255898,9.696433
+de:08126:10746:0:1,Laßbach Wolfsölden Abzweig,49.295306,9.778746
+de:08126:10746:0:2,Laßbach Wolfsölden Abzweig,49.296402,9.783345
+de:08126:10747:0:1,Nitzenhausen Ohrenbach,49.292488,9.746595
+de:08126:10747:0:2,Nitzenhausen Ohrenbach,49.292459,9.746703
+de:08126:10748:0:1,Nitzenhausen Berndshausen,49.290660,9.769691
+de:08126:10748:0:2,Nitzenhausen Berndshausen,49.291328,9.770832
+de:08126:10749:0:1,Morsbach Ort,49.273086,9.723221
+de:08126:10749:0:2,Morsbach Ort,49.273150,9.723041
+de:08126:10750:0:1,Morsbach Schule,49.273525,9.726446
+de:08126:10751:0:1,Belsenberg Siegelhof,49.300502,9.705695
+de:08126:10751:0:2,Belsenberg Siegelhof,49.300502,9.705695
+de:08126:10752:0:1,Gaisbach Kemmeten Aussiedler,49.262195,9.664471
+de:08126:10752:0:2,Gaisbach Kemmeten Aussiedler,49.262113,9.664741
+de:08126:10753:0:1,Gaisbach Kemmeten Mitte,49.260002,9.655362
+de:08126:10753:0:2,Gaisbach Kemmeten Mitte,49.259973,9.655650
+de:08126:10754:0:1,Gaisbach Kemmeten Zobelweg,49.259193,9.657913
+de:08126:10754:0:2,Gaisbach Kemmeten Zobelweg,49.258999,9.658264
+de:08126:10756:0:1,Gaisbach Schnaihof,49.257915,9.650332
+de:08126:10756:0:2,Gaisbach Schnaihof,49.257915,9.650332
+de:08126:10757:0:1,Steinbach (Künzelsau),49.299155,9.729311
+de:08126:10757:0:2,Steinbach (Künzelsau),49.299360,9.729329
+de:08126:10758:0:1,Büttelbronn (Kün),49.301908,9.764912
+de:08126:10758:0:2,Büttelbronn (Kün),49.302336,9.764723
+de:08126:10759:0:1,Gaisbach Unterhof,49.253998,9.672969
+de:08126:10760:0:1,Gaisbach Weckhof,49.247636,9.654392
+de:08126:10761:0:1,Gaisbach Oberhof,49.251805,9.691771
+de:08126:10762:0:1,Nitzenhausen Kindergarten,49.284748,9.798608
+de:08126:10762:0:2,Nitzenhausen Kindergarten,49.285510,9.798913
+de:08126:10764:0:Bus,Laßbach Rappoldsweiler Hof,49.274070,9.806935
+de:08126:10766:0:1,Künzelsau Allee,49.277499,9.686282
+de:08126:10767:0:1,Künzelsau Weinsteige Abzw.,49.281806,9.699308
+de:08126:10769:0:1,Künzelsau Sparkasse,49.279169,9.687693
+de:08126:10770:0:1,Künzelsau Ev. Gemeindehaus,49.280054,9.687693
+de:08126:10770:0:2,Künzelsau Ev. Gemeindehaus,49.280054,9.687693
+de:08126:10772:0:1,Künzelsau Taläcker Bahnhof,49.276192,9.670804
+de:08126:10773:0:1,K'au Taläcker da Vinci-Str.,49.278167,9.670526
+de:08126:10774:0:1,K'au Taläcker Kreisverkehr,49.277499,9.673697
+de:08126:10775:0:1,K'au Taläcker Marc-Chagall-Str,49.276221,9.673472
+de:08126:10777:0:1,K'au Taläcker Taläckerstr.,49.267998,9.671837
+de:08126:10777:0:2,K'au Taläcker Taläckerstr.,49.267998,9.671837
+de:08126:10779:0:1,K'au Taläcker Anne-Sophie-Schu,49.276192,9.670274
+de:08126:10780:0:1,Künzelsau Würzburger Str./HEM,49.285639,9.678889
+de:08126:10781,Gaisbach Würth Nord,49.260688,9.676904
+de:08126:10781:0:1,Gaisbach Würth Nord,49.260653,9.676787
+de:08126:10781:0:2,Gaisbach Würth Nord,49.261503,9.678108
+de:08126:10783:0:1,Nitzenhausen Steinbruch,49.287027,9.801913
+de:08126:10783:0:2,Nitzenhausen Steinbruch,49.290549,9.805327
+de:08126:10784:0:1,Amrichshausen Landesstraße,49.279954,9.741834
+de:08126:10784:0:2,Amrichshausen Landesstraße,49.279884,9.741807
+de:08126:10785:0:1,Künzelsau Taläcker Allee,49.272998,9.670921
+de:08126:10785:0:2,Künzelsau Taläcker Allee,49.272998,9.670921
+de:08126:10786:0:1,Künzelsau Wolfsölden,49.298973,9.775503
+de:08126:10786:0:2,Künzelsau Wolfsölden,49.298897,9.775404
+de:08126:10800:0:1,Gaisbach Haag Aussiedler,49.244944,9.703997
+de:08126:10800:0:2,Gaisbach Haag Aussiedler,49.244944,9.703997
+de:08126:10801:0:1,Kupferzell Gerberstraße,49.229167,9.686058
+de:08126:10801:0:2,Kupferzell Gerberstraße,49.229167,9.686058
+de:08126:10802:0:1,Kupferzell Fa. Lidl,49.221722,9.680416
+de:08126:10802:0:2,Kupferzell Fa. Lidl,49.221722,9.680416
+de:08126:10803:0:1,Kupferzell Künzelsauer Straße,49.229970,9.692364
+de:08126:10803:0:2,Kupferzell Künzelsauer Straße,49.229970,9.692364
+de:08126:10804,Kupferzell Untere Vorstadt,49.226257,9.688375
+de:08126:10804:0:1,Kupferzell Untere Vorstadt,49.226263,9.688321
+de:08126:10804:0:2,Kupferzell Untere Vorstadt,49.226433,9.688339
+de:08126:10805,Kupferzell Schule,49.224145,9.695220
+de:08126:10805:0:1,Kupferzell Schule,49.224984,9.694107
+de:08126:10805:0:2,Kupferzell Schule,49.224139,9.695220
+de:08126:10806:0:1,Kupferzell Langenburger Straße,49.228803,9.695885
+de:08126:10806:0:2,Kupferzell Langenburger Straße,49.228803,9.695885
+de:08126:10807:0:1,Mangoldsall Mitte,49.228193,9.641079
+de:08126:10807:0:2,Mangoldsall Mitte,49.228193,9.641079
+de:08126:10808:0:1,Mangoldsall Oberweiler,49.228028,9.646469
+de:08126:10808:0:2,Mangoldsall Oberweiler,49.228028,9.646469
+de:08126:10809:0:1,Mangoldsall Stabilo,49.228556,9.636498
+de:08126:10809:0:2,Mangoldsall Stabilo,49.228556,9.636498
+de:08126:10810:0:1,Mangoldsall Füßbach,49.238640,9.649110
+de:08126:10810:0:2,Mangoldsall Füßbach,49.238640,9.649110
+de:08126:10811:0:1,Kupferzell Ulrichsberg Abzweig,49.234387,9.670247
+de:08126:10812:0:1,Kupferzell Rechbach,49.242945,9.681359
+de:08126:10813:0:1,Kupferzell Rechbach Abzweig,49.244000,9.686920
+de:08126:10813:0:2,Kupferzell Rechbach Abzweig,49.243842,9.687019
+de:08126:10814:0:1,Feßbach Aussiedler,49.233109,9.721164
+de:08126:10814:0:2,Feßbach Aussiedler,49.233232,9.721227
+de:08126:10815:0:1,Feßbach Ort,49.229137,9.705111
+de:08126:10815:0:2,Feßbach Ort,49.229002,9.704114
+de:08126:10816:0:1,Feßbach Bühlingsweiler Abzweig,49.240558,9.742696
+de:08126:10816:0:2,Feßbach Bühlingsweiler Abzweig,49.238669,9.742077
+de:08126:10817:0:1,Feßbach Rüblingen,49.231554,9.741026
+de:08126:10817:0:2,Feßbach Rüblingen,49.232287,9.741358
+de:08126:10818:0:1,Feßbach Kubach,49.240722,9.706413
+de:08126:10818:0:2,Feßbach Kubach,49.240722,9.706413
+de:08126:10819:0:1,Löcherholz Ort,49.188942,9.666223
+de:08126:10823:0:1,Neu-Kupfer Grünwiesen,49.182055,9.694250
+de:08126:10823:0:2,Neu-Kupfer Grünwiesen,49.182220,9.694214
+de:08126:10829:0:1,Westernach Kirche,49.196721,9.686004
+de:08126:10829:0:2,Westernach Kirche,49.196733,9.686094
+de:08126:10834:0:1,Kupferzell Lagerhaus,49.222637,9.686112
+de:08126:10834:0:2,Kupferzell Lagerhaus,49.222637,9.686112
+de:08126:10838:0:1,Westernach Im Seefeld,49.193193,9.684557
+de:08126:10838:0:2,Westernach Im Seefeld,49.193211,9.684557
+de:08126:10843:0:1,Kupferzell Kubach Abzweig,49.235631,9.690962
+de:08126:10843:0:2,Kupferzell Kubach Abzweig,49.235619,9.690980
+de:08126:10901:0:1,Kesselfeld Eichhof,49.203776,9.592417
+de:08126:10901:0:2,Kesselfeld Eichhof,49.203776,9.592417
+de:08126:10903:0:1,Neuenstein Feuerwache,49.203501,9.575834
+de:08126:10903:0:2,Neuenstein Feuerwache,49.203501,9.575834
+de:08126:10904:0:1,Neuenstein Friedrichsruher Str,49.207057,9.575637
+de:08126:10904:0:2,Neuenstein Friedrichsruher Str,49.207451,9.575259
+de:08126:10905:0:1,Neuenstein Kiga Rötelgasse,49.202139,9.586111
+de:08126:10905:0:2,Neuenstein Kiga Rötelgasse,49.202139,9.586111
+de:08126:10906:0:1,Neuenstein Kiga Schwabstr,49.206999,9.576643
+de:08126:10908:0:1,Neuenstein Salzweg,49.213501,9.583524
+de:08126:10908:0:2,Neuenstein Salzweg,49.213501,9.583524
+de:08126:10909:0:1,Neuenstein Schloß,49.205696,9.578835
+de:08126:10909:0:2,Neuenstein Schloß,49.205831,9.578889
+de:08126:10909:0:3,Neuenstein Schloß,49.205831,9.579167
+de:08126:10910:0:1,Neuenstein Straßenmeisterei,49.201834,9.584862
+de:08126:10910:0:2,Neuenstein Straßenmeisterei,49.201834,9.584862
+de:08126:10912:0:1,Neuenstein ZWN,49.210749,9.586497
+de:08126:10912:0:2,Neuenstein ZWN,49.210749,9.586497
+de:08126:10913:0:1,Kirchensall Langensall Mitte,49.235555,9.614309
+de:08126:10913:0:2,Kirchensall Langensall Mitte,49.235555,9.614309
+de:08126:10914:0:1,Grünbühl Untereppach,49.204557,9.599415
+de:08126:10914:0:2,Grünbühl Untereppach,49.204669,9.599128
+de:08126:10915:0:1,Grünbühl Hohrain Abzweig,49.209334,9.616941
+de:08126:10916:0:1,Grünbühl Obereppach,49.209000,9.610500
+de:08126:10917:0:1,Grünbühl (Neuenstein),49.213249,9.623032
+de:08126:10917:0:2,Grünbühl (Neuenstein),49.213249,9.623032
+de:08126:10918:0:1,Kesselfeld Abzw. Eschelbach,49.201669,9.615252
+de:08126:10918:0:2,Kesselfeld Abzw. Eschelbach,49.201669,9.615252
+de:08126:10919:0:1,Eschelbach,49.192858,9.594250
+de:08126:10919:0:2,Eschelbach,49.192858,9.594250
+de:08126:10919:0:3,Eschelbach,49.192858,9.594250
+de:08126:10920:0:1,Obersöllbach,49.188890,9.571361
+de:08126:10920:0:2,Obersöllbach,49.188942,9.571109
+de:08126:10920:0:3,Obersöllbach,49.188931,9.571082
+de:08126:10921:0:1,Kirchensall Löschenhirschbach,49.221640,9.603583
+de:08126:10922:0:1,Kirchensall Tiergarten,49.227307,9.610608
+de:08126:10923:0:Bus,Mangoldsall Wüchern,49.224027,9.620723
+de:08126:10924:0:1,Grünbühl Lohe,49.212662,9.633425
+de:08126:10925:0:1,Grünbühl Tannen,49.218776,9.636920
+de:08126:10926:0:1,Grünbühl Waldsall Abzweig,49.211658,9.645921
+de:08126:10927:0:1,Kirchensall Bank,49.239197,9.600277
+de:08126:10927:0:2,Kirchensall Bank,49.239197,9.600277
+de:08126:10928:0:1,Kirchensall Kindergarten,49.240083,9.596720
+de:08126:10929:0:1,Kirchensall Mainhardtsall,49.239637,9.587198
+de:08126:10930:0:1,K'hirschbach Döttenweiler Abzw,49.229917,9.589058
+de:08126:10930:0:2,K'hirschbach Döttenweiler Abzw,49.229917,9.589058
+de:08126:10931:0:1,Kleinhirschbach Emmertshof,49.222250,9.587638
+de:08126:10931:0:2,Kleinhirschbach Emmertshof,49.222250,9.587638
+de:08126:10932:0:1,Neureut,49.253805,9.599918
+de:08126:10933:0:1,Waldenburg Rebbigshof,49.200889,9.635195
+de:08126:10933:0:2,Waldenburg Rebbigshof,49.200889,9.635195
+de:08126:10934:0:1,Kesselfeld Dorfweinberg,49.202027,9.615360
+de:08126:10934:0:2,Kesselfeld Dorfweinberg,49.202027,9.615360
+de:08126:10935:0:1,Kirchensall Langensall Brücke,49.235109,9.619969
+de:08126:10935:0:2,Kirchensall Langensall Brücke,49.235109,9.619969
+de:08126:10936:0:1,Kleinhirschbach Klumpenhof,49.216529,9.564938
+de:08126:10936:0:2,Kleinhirschbach Klumpenhof,49.216529,9.565028
+de:08126:10937:0:1,Kirchensall Langensall West,49.236053,9.608802
+de:08126:10937:0:2,Kirchensall Langensall West,49.236053,9.608802
+de:08126:10938:0:1,Kirchensall Friedhof,49.239807,9.603413
+de:08126:10938:0:2,Kirchensall Friedhof,49.239807,9.603413
+de:08126:10954:0:1,Waldenburg GEMÜ/Ziehl-Abegg,49.201417,9.675610
+de:08126:10954:0:2,Waldenburg GEMÜ/Ziehl-Abegg,49.201417,9.675610
+de:08126:10955:0:1,Waldenburg Ziehl-Abegg Drives,49.201752,9.680030
+de:08126:10955:0:2,Waldenburg Ziehl-Abegg Drives,49.201752,9.680030
+de:08126:11001:0:1,Ingelfingen Bahnhof,49.297972,9.659054
+de:08126:11002:0:1,Ingelfingen Bühlhofer Straße,49.302113,9.652362
+de:08126:11002:0:2,Ingelfingen Bühlhofer Straße,49.302541,9.652676
+de:08126:11003:0:1,Ingelfingen Eichendorffstraße,49.298253,9.658919
+de:08126:11003:0:2,Ingelfingen Eichendorffstraße,49.298282,9.658740
+de:08126:11004:0:Bus,Ingelfingen Fa Bürkert,49.297608,9.653134
+de:08126:11005:0:1,Ingelfingen Hochhaus,49.297081,9.663663
+de:08126:11005:0:2,Ingelfingen Hochhaus,49.297110,9.663510
+de:08126:11006:0:1,Ingelfingen Im Lauf,49.304503,9.655443
+de:08126:11006:0:2,Ingelfingen Im Lauf,49.305018,9.655919
+de:08126:11007:0:1,Ingelfingen Zollhaus,49.298469,9.653476
+de:08126:11007:0:2,Ingelfingen Zollhaus,49.298341,9.653494
+de:08126:11008:0:1,Ingelfingen Rose,49.300596,9.654464
+de:08126:11008:0:2,Ingelfingen Rose,49.300602,9.653970
+de:08126:11009:0:1,Ingelfingen Schule,49.301305,9.648391
+de:08126:11009:0:2,Ingelfingen Schule,49.301463,9.647394
+de:08126:11011:0:1,Ingelfingen Ziegelhütte,49.307332,9.658165
+de:08126:11011:0:2,Ingelfingen Ziegelhütte,49.307338,9.658111
+de:08126:11012:0:Bus,Ingelfingen Bobachshof,49.318026,9.631413
+de:08126:11013:0:1,Ingelfingen Bühlhof,49.327810,9.672547
+de:08126:11013:0:2,Ingelfingen Bühlhof,49.327775,9.672556
+de:08126:11014:0:1,Dörrenzimmern Jägerhaus,49.317891,9.675413
+de:08126:11015:0:1,Criesbach Landesstraße,49.304251,9.635168
+de:08126:11016:0:1,Criesbacher Sattel,49.309891,9.624334
+de:08126:11017:0:1,Diebach (Ingelfing.),49.333752,9.631197
+de:08126:11018:0:1,Dörrenzimmern Brücke,49.334653,9.671155
+de:08126:11018:0:2,Dörrenzimmern Brücke,49.334560,9.671164
+de:08126:11020:0:1,Dörrenzimmern Sägewerk,49.335016,9.664085
+de:08126:11020:0:2,Dörrenzimmern Sägewerk,49.335004,9.664354
+de:08126:11021:0:1,Eberstal,49.342011,9.639803
+de:08126:11021:0:2,Eberstal,49.341987,9.639875
+de:08126:11022:0:1,Criesbach Ort,49.304556,9.636749
+de:08126:11023:0:1,Eberstal Krautheimer Str,49.341636,9.637971
+de:08126:11025:0:Bus,Ingelfingen Kiga Breter,49.298669,9.662773
+de:08126:11026:0:1,Ingelfingen Steigäcker,49.295359,9.655937
+de:08126:11027:0:Bus,Ingelfingen Falkenstraße,49.293308,9.647861
+de:08126:11028:0:1,Ingelfingen Am Mühlberg,49.293777,9.650996
+de:08126:11028:0:2,Ingelfingen Am Mühlberg,49.293718,9.651221
+de:08126:11029:0:1,Ingelfingen Criesbach Kelter,49.306084,9.634279
+de:08126:11029:0:2,Ingelfingen Criesbach Kelter,49.306084,9.634279
+de:08126:11030:0:1,Ingelfingen Kelter,49.299254,9.654320
+de:08126:11031:0:1,Ingelfingen Lipfersberg,49.289277,9.650107
+de:08126:11032:0:1,Lipfersberg Wendeplatz,49.288498,9.648778
+de:08126:11034:0:1,Ingelfingen Grabenweg,49.300871,9.651419
+de:08126:11041:0:1,Niedernhall Kochermühle,49.296196,9.613941
+de:08126:11041:0:2,Niedernhall Kochermühle,49.296196,9.613941
+de:08126:11042:0:1,Niedernhall Neufelser Straße,49.292277,9.618558
+de:08126:11042:0:2,Niedernhall Neufelser Straße,49.292277,9.618558
+de:08126:11043:0:1,Niedernhall Pumpstation,49.301018,9.615252
+de:08126:11043:0:2,Niedernhall Pumpstation,49.300836,9.615198
+de:08126:11044:0:1,Niedernhall Gerberstraße,49.295247,9.618891
+de:08126:11044:0:2,Niedernhall Gerberstraße,49.295247,9.618891
+de:08126:11045:0:1,Niedernhall Salzstraße,49.303800,9.625448
+de:08126:11045:0:2,Niedernhall Salzstraße,49.303777,9.625412
+de:08126:11046:0:1,Niedernhall Grundschule,49.297696,9.617804
+de:08126:11047:0:1,Niedernhall Stadthalle,49.296835,9.617193
+de:08126:11048:0:1,N'hall G'heide Berlichingenstr,49.285000,9.618558
+de:08126:11049:0:1,N'hall G'heide Hohenloher Str.,49.288012,9.623607
+de:08126:11049:0:2,N'hall G'heide Hohenloher Str.,49.287924,9.624011
+de:08126:11050:0:1,N'hall G'heide Schöntaler Str.,49.287760,9.621047
+de:08126:11050:0:2,N'hall G'heide Schöntaler Str.,49.287678,9.620633
+de:08126:11051:0:1,Niedernhall Giebelhöfe Abzweig,49.280195,9.618136
+de:08126:11051:0:2,Niedernhall Giebelhöfe Abzweig,49.280195,9.618136
+de:08126:11052:0:1,N'hall Waldzimmern Burgstall,49.269147,9.628431
+de:08126:11052:0:2,N'hall Waldzimmern Burgstall,49.269147,9.628404
+de:08126:11054:0:1,Niedernhall Guthof Abzweig,49.282334,9.608641
+de:08126:11055:0:1,Niedernhall Galgenberg,49.291674,9.619124
+de:08126:11056:0:1,Niedernhall Salzstr./Betonwerk,49.303501,9.621693
+de:08126:11056:0:2,Niedernhall Salzstr./Betonwerk,49.303501,9.621693
+de:08126:11057:0:1,N'hall G'heide Jugendhaus,49.283113,9.616887
+de:08126:11057:0:2,N'hall G'heide Jugendhaus,49.283113,9.616887
+de:08126:11071:0:1,Weißbach Hornschuch,49.296542,9.591717
+de:08126:11072:0:1,Weißbach Schule,49.300192,9.593890
+de:08126:11073:0:1,Weißbach Ortsmitte,49.297860,9.593837
+de:08126:11073:0:2,Weißbach Ortsmitte,49.297673,9.594367
+de:08126:11075:0:1,Crispenhofen Kindergarten,49.317469,9.600754
+de:08126:11075:0:2,Crispenhofen Kindergarten,49.317469,9.600754
+de:08126:11076:0:1,Crispenhofen Mitte,49.316111,9.598032
+de:08126:11076:0:2,Crispenhofen Mitte,49.315601,9.597780
+de:08126:11077:0:1,Crispenhofen Halberg Mitte,49.308275,9.604221
+de:08126:11078:0:1,Weißbach Landesstraße,49.297766,9.592848
+de:08126:11079:0:1,C'hofen Breitentaler Höfe Abzw,49.325029,9.591088
+de:08126:11079:0:2,C'hofen Breitentaler Höfe Abzw,49.325269,9.590486
+de:08126:11081:0:1,Weißbach Schützenstraße,49.299137,9.596558
+de:08126:11084:0:1,Weißbach Halbg.Ebene Birkenweg,49.294416,9.604140
+de:08126:11086:0:1,Weißbach Frühmeßweg,49.293970,9.600107
+de:08126:11088:0:1,Weißbach Rathaus,49.296331,9.596388
+de:08126:11089:0:1,Crispenhofen Siedlungsweg,49.315473,9.597502
+de:08126:11092:0:1,Weißb. Halbg. Ebene Hahnenkl.,49.294861,9.602442
+de:08126:11201:0:1,Öhringen Seniorenresidenz,49.322529,9.347941
+de:08126:11202:0:1,Öhringen Hafenmarkt,49.201417,9.501858
+de:08126:11203:0:1,Öhringen Bismarckstraße,49.201053,9.502586
+de:08126:11205:0:1,Öhringen Karlsvorstadt,49.201945,9.506781
+de:08126:11205:0:2,Öhringen Karlsvorstadt,49.201945,9.506781
+de:08126:11206:0:1,Öhringen Jahnstraße,49.202697,9.510805
+de:08126:11207:0:1,Öhringen Brechdarrweg,49.202943,9.515108
+de:08126:11208:0:1,Öhringen Freiligrathstraße,49.203835,9.516833
+de:08126:11209:0:1,Öhringen Hans-Sachs-Straße,49.205414,9.517920
+de:08126:11210,Öhringen Silcherstr.,49.205150,9.514569
+de:08126:11211:0:1,Öhringen Friedhof (Eingang),49.195359,9.499001
+de:08126:11212:0:1,Öhringen Haagweg,49.201916,9.502918
+de:08126:11213:0:1,Öhringen Untere Bürgstraße,49.203859,9.496387
+de:08126:11214:0:1,Öhringen Alemannenstr.,49.208859,9.514893
+de:08126:11215:0:1,Öhringen Steinsfeldle,49.189119,9.495884
+de:08126:11215:0:2,Öhringen Steinsfeldle,49.189800,9.495848
+de:08126:11216:0:1,Öhringen Jägerstraße,49.206916,9.511111
+de:08126:11217:0:1,Öhringen Wibelstraße,49.206030,9.506754
+de:08126:11219:0:1,Öhringen Gäwelestraße,49.207057,9.499082
+de:08126:11220:0:1,Öhringen Krankenhaus,49.205555,9.498804
+de:08126:11222:0:1,Öhringen Hirschgasse,49.199944,9.500475
+de:08126:11223:0:1,Öhringen Marktplatz,49.200167,9.502226
+de:08126:11224:0:1,Öhringen Altes Rathaus,49.200666,9.500636
+de:08126:11225:0:1,Öhringen Altstadt,49.198864,9.500304
+de:08126:11227:0:1,Öhringen Hofgartenweg,49.195529,9.502226
+de:08126:11228:0:1,Öhringen Münzstube,49.194637,9.504472
+de:08126:11229:0:1,Öhringen Hungerfeldschule,49.194972,9.508829
+de:08126:11230:0:1,Öhringen Finanzamt / Willig,49.202057,9.505281
+de:08126:11233:0:1,Öhringen Am Rappenhäusle,49.190557,9.511829
+de:08126:11234:0:1,Öhringen Ahornweg,49.190751,9.510114
+de:08126:11235:0:1,Öhringen Schwarzdornweg,49.191890,9.509386
+de:08126:11237:0:1,Öhringen Theodor-Storm-Str.,49.191443,9.504167
+de:08126:11240:0:1,Öhringen Treffener Ring,49.192776,9.495336
+de:08126:11240:0:2,Öhringen Treffener Ring,49.192776,9.495336
+de:08126:11946:0:1,Waldenburg Ziehl-Abegg,49.201722,9.673751
+de:08126:11946:0:2,Waldenburg Ziehl-Abegg,49.201722,9.673751
+de:08126:11947:0:1,Waldenburg Siercker Straße,49.186224,9.623391
+de:08126:11948:0:1,Waldenburg Obermühle,49.187833,9.652586
+de:08126:11949:0:1,Waldenburg Untermühle,49.190692,9.655416
+de:08126:11950:0:1,Waldenburg Gebhardt,49.198864,9.658057
+de:08126:11950:0:2,Waldenburg Gebhardt,49.198864,9.658057
+de:08126:11951:1:11,Waldenburg Bahnhof,49.202720,9.659081
+de:08126:11951:1:12,Waldenburg Bahnhof,49.202779,9.659054
+de:08126:11951:1:13,Waldenburg Bahnhof,49.202473,9.659198
+de:08126:11952:0:1,Waldenburg Bahnhofsiedlung,49.201669,9.654670
+de:08126:11952:0:2,Waldenburg Bahnhofsiedlung,49.201669,9.654670
+de:08126:11953:0:1,Waldenburg Abzw. Kesselfeld,49.198470,9.651724
+de:08126:11953:0:2,Waldenburg Abzw. Kesselfeld,49.198470,9.651724
+de:08126:11954:0:1,Waldenburg SWG,49.198969,9.669753
+de:08126:11954:0:2,Waldenburg SWG,49.198969,9.669753
+de:08126:11955:0:1,Waldenburg Haller Straße,49.186471,9.642274
+de:08126:11955:0:2,Waldenburg Haller Straße,49.186471,9.642274
+de:08126:11956:0:1,Waldenburg Hohenlohestraße,49.186101,9.626868
+de:08126:11957:0:1,Waldenburg Mörikestraße,49.180728,9.640738
+de:08126:11957:0:2,Waldenburg Mörikestraße,49.186054,9.626832
+de:08126:11958:0:1,Waldenburg Rathaus,49.189553,9.642885
+de:08126:11958:0:2,Waldenburg Rathaus,49.189553,9.642885
+de:08126:11959:0:1,Waldenburg Schillerstraße,49.181497,9.635887
+de:08126:11960:0:1,Waldenburg Schule,49.183864,9.641636
+de:08126:11961:0:1,Waldenburg Silcherweg,49.180528,9.640944
+de:08126:11962:0:1,Waldenburg Sportschule,49.184474,9.624837
+de:08126:11963:0:1,Waldenburg Hauptstraße 84,49.185942,9.640809
+de:08126:11964:0:1,Waldenburg Steinstraße,49.184586,9.636138
+de:08126:11965:0:1,Waldenburg Panoramastraße 2,49.183615,9.633030
+de:08126:11966:0:1,Waldenburg Kinderdorf,49.181556,9.619834
+de:08126:11967:0:1,Waldenburg Friedhof,49.183723,9.629527
+de:08126:11968:0:1,Waldenburg Ziegelhütte,49.178056,9.644079
+de:08126:11969:0:1,Waldenburg Goldbach Ort,49.169141,9.656889
+de:08126:11970:0:1,Waldenburg Neumühlsee,49.162498,9.643226
+de:08126:11971:0:1,Waldenburg Hohebuch Domäne,49.208554,9.659000
+de:08126:11971:0:2,Waldenburg Hohebuch Domäne,49.208554,9.659000
+de:08126:11972:0:1,Waldenburg Hohebuch Landesstr.,49.211946,9.657635
+de:08126:11972:0:2,Waldenburg Hohebuch Landesstr.,49.211946,9.657635
+de:08126:11973:0:1,Obersteinbach Ort,49.155002,9.612611
+de:08126:11974:0:1,Sailach Ort,49.141722,9.641223
+de:08126:11975:0:1,Sailach Jagdsteige,49.138525,9.642777
+de:08126:11975:0:2,Sailach Jagdsteige,49.138525,9.642777
+de:08126:11978:0:1,Waldenburg Wolf & Müller,49.200971,9.664642
+de:08126:11978:0:2,Waldenburg Wolf & Müller,49.200971,9.664642
+de:08126:11979:0:1,Waldenburg Fa. Lidl,49.196475,9.665082
+de:08126:11979:0:2,Waldenburg Fa. Lidl,49.196475,9.665082
+de:08126:11980:0:1,Waldenburg Tommelhardt Abzw.,49.165359,9.636417
+de:08126:11981:0:1,Sailach Brunnenweg,49.145419,9.638501
+de:08126:11982:0:1,Obersteinbach Hofwiesen,49.153639,9.613833
+de:08126:11983:0:1,Waldenburg Bahnbrücke,49.198054,9.671918
+de:08126:11983:0:2,Waldenburg Bahnbrücke,49.198054,9.671918
+de:08126:12234:0:1,Öhringen Realschule,49.195447,9.512719
+de:08126:12317:1:1,Büttelbronn Möhrig Abzweig,49.209722,9.485275
+de:08126:12317:1:2,Büttelbronn Möhrig Abzweig,49.209722,9.485275
+de:08126:12967:0:1,Waldenburg Wasserturm,49.183470,9.628224
+de:08126:13415:0:1,Baumerlenbach Erdwerk,49.211776,9.468028
+de:08126:13415:0:2,Baumerlenbach Erdwerk,49.211876,9.467947
+de:08126:14073:0:1,Öhringen Weizsäckerstraße,49.207028,9.513150
+de:08126:14107:0:1,Criesbach Bürkert Campus,49.300602,9.637531
+de:08126:14107:0:2,Criesbach Bürkert Campus,49.300602,9.637531
+de:08126:14201:0:1,Wohlmuthausen Oberweiler,49.262113,9.573975
+de:08126:14201:0:2,Wohlmuthausen Oberweiler,49.262113,9.573975
+de:08126:14202:0:1,Wohlmuthausen Friedhof,49.265360,9.571972
+de:08126:14202:0:2,Wohlmuthausen Friedhof,49.265360,9.571972
+de:08126:14843:0:1,Klepsau L 1025,49.388636,9.667166
+de:08126:14843:0:2,Klepsau L 1025,49.388636,9.667166
+de:08126:15602:0:1,Eberbach (Mulfingen) Unterer Mühlweg,49.299887,9.825530
+de:08126:15602:0:2,Eberbach (Mulfingen) Unterer Mühlweg,49.299858,9.826410
+de:08126:17312:0:1,Bitzfeld Kleerainweg,49.189389,9.448498
+de:08126:17312:0:2,Bitzfeld Kleerainweg,49.189289,9.448911
+de:08126:17313:0:1,Bitzfeld Lessingstraße,49.192248,9.448363
+de:08126:17313:0:2,Bitzfeld Lessingstraße,49.192277,9.447779
+de:08126:17314:0:1,Bitzfeld Sommerhalde,49.191766,9.441860
+de:08126:17314:0:2,Bitzfeld Sommerhalde,49.191778,9.441860
+de:08126:18101:0:1,Marlach Altdorf,49.356138,9.612198
+de:08126:18101:0:2,Marlach Altdorf,49.356501,9.611192
+de:08126:18102:0:1,Marlach Brücke,49.360971,9.596585
+de:08126:18102:0:2,Marlach Brücke,49.360789,9.597331
+de:08126:18103:0:1,Marlach Landesstraße,49.361585,9.594753
+de:08126:18103:0:2,Marlach Landesstraße,49.361679,9.595516
+de:08126:18104:0:1,Marlach Ort,49.360111,9.600996
+de:08126:18104:0:2,Marlach Ort,49.359368,9.601158
+de:08126:18105:0:1,Sindeldorf,49.344890,9.611390
+de:08126:18105:0:2,Sindeldorf,49.344890,9.611390
+de:08126:18139:0:1,Neuenstein Bahnhof Süd,49.206083,9.583218
+de:08126:18139:0:2,Neuenstein Bahnhof Süd,49.206083,9.583218
+de:08126:18140:0:1,Neuenstein Bahnhof Nord,49.206335,9.583461
+de:08126:18140:0:2,Neuenstein Bahnhof Nord,49.206359,9.583308
+de:08126:18141:0:1,Neuenstein Bergstraße,49.200777,9.571558
+de:08126:18141:0:2,Neuenstein Bergstraße,49.200777,9.571558
+de:08126:18201:0:1,Hohebach Abzweig,49.363697,9.729833
+de:08126:18201:0:2,Hohebach Abzweig,49.363697,9.729833
+de:08126:18202:0:1,Hohebach Mitte,49.361860,9.732357
+de:08126:18202:0:2,Hohebach Mitte,49.361831,9.732168
+de:08126:18203:0:1,Hohebach Eisenhutsrot,49.355915,9.761884
+de:08126:18204:0:1,Hohebach Heßlachshof,49.346389,9.765361
+de:08126:18205:0:1,Hohebach Kindergarten,49.360251,9.732168
+de:08126:18301:0:1,D'zimmern Stachenhausen B 19,49.330696,9.707024
+de:08126:18301:0:2,D'zimmern Stachenhausen B 19,49.330192,9.705973
+de:08126:18302:0:1,D'zimmern Stachenhausen Ort,49.330819,9.703745
+de:08126:18302:0:2,D'zimmern Stachenhausen Ort,49.330831,9.703638
+de:08126:18303:0:1,Hermuthausen Milchhäusle,49.310752,9.731306
+de:08126:18303:0:2,Hermuthausen Milchhäusle,49.310787,9.731180
+de:08126:18304:0:1,Hermuthausen Mitte,49.312421,9.732456
+de:08126:18304:0:2,Hermuthausen Mitte,49.312304,9.732671
+de:08126:18305:0:1,Weldingsfelden Eschenhof,49.323805,9.715055
+de:08126:18307:0:1,Weldingsfelden Ort,49.326943,9.736642
+de:08126:18307:0:2,Weldingsfelden Ort,49.326961,9.737127
+de:08126:18308:0:1,Weldingsfelden Greut,49.324502,9.735501
+de:08126:18308:0:2,Weldingsfelden Greut,49.324437,9.735618
+de:08126:18309:0:1,Stachenhausen Eschenhofer Weg,49.329443,9.705865
+de:08126:18312:0:1,Verrenberg Sportplatz,49.190557,9.460500
+de:08126:18323:0:1,Weinsbach Gemeinschaftshaus,49.216142,9.543558
+de:08126:18323:0:2,Weinsbach Gemeinschaftshaus,49.216142,9.543558
+de:08126:18324:0:1,Weinsbach Deichweg,49.214475,9.540531
+de:08126:18353:0:1,Schwabbach Friedhof,49.184304,9.402442
+de:08126:18353:0:2,Schwabbach Friedhof,49.184304,9.402442
+de:08126:18354:0:1,Schwabbach Carl-Zeiss-Straße,49.185449,9.410886
+de:08126:18354:0:2,Schwabbach Carl-Zeiss-Straße,49.185437,9.411146
+de:08126:18381:0:1,Pfedelbach Buchhorn Ort,49.155918,9.497528
+de:08126:18381:0:2,Pfedelbach Buchhorn Ort,49.155918,9.497528
+de:08126:18398:0:1,Untersteinbach Heimaten,49.117222,9.593998
+de:08126:18398:0:2,Untersteinbach Heimaten,49.117222,9.593998
+de:08126:18401:0:1,Buchenbach Bodenhof,49.298938,9.791259
+de:08126:18401:0:2,Buchenbach Bodenhof,49.298165,9.789669
+de:08126:18402:0:1,Buchenbach Bodenhof Siedlung,49.299219,9.793029
+de:08126:18402:0:2,Buchenbach Bodenhof Siedlung,49.299190,9.792822
+de:08126:18601:0:1,Orendelsall,49.266304,9.538249
+de:08126:18602:0:1,Zweiflingen Tiefensall,49.249583,9.541303
+de:08126:18602:0:2,Zweiflingen Tiefensall,49.249583,9.541303
+de:08126:18701:0:1,Kleinhirschbach Großhirschbach,49.224127,9.573238
+de:08126:18701:0:2,Kleinhirschbach Großhirschbach,49.224074,9.572978
+de:08126:18702:0:1,Kleinhirschbach Brücke,49.224784,9.564875
+de:08126:18702:0:2,Kleinhirschbach Brücke,49.224855,9.564605
+de:08126:18703:0:1,Kleinhirschbach Stolzeneck,49.236223,9.566725
+de:08126:18703:0:2,Kleinhirschbach Stolzeneck,49.236223,9.566725
+de:08126:18704:0:1,K'hirschbach Stolzeneck Abzw.,49.231947,9.570552
+de:08126:18704:0:2,K'hirschbach Stolzeneck Abzw.,49.231947,9.570552
+de:08126:18705:0:1,Kleinhirschbach Haselweg,49.226280,9.563941
+de:08126:18705:0:2,Kleinhirschbach Haselweg,49.226280,9.563941
+de:08126:18710:0:1,Dörzbach Bauhof,49.383970,9.695840
+de:08126:18710:0:2,Dörzbach Bauhof,49.383800,9.696164
+de:08126:18801:0:1,Neureut Neufels Auss. Baumann,49.246780,9.614444
+de:08126:18801:0:2,Neureut Neufels Auss. Baumann,49.246780,9.614444
+de:08126:18802:0:1,Neureut Neufels Auss. Wenzel,49.255640,9.642804
+de:08126:18802:0:2,Neureut Neufels Auss. Wenzel,49.255640,9.642804
+de:08126:18803:0:1,Neureut Neufels,49.251336,9.624388
+de:08126:18803:0:2,Neureut Neufels,49.251166,9.623643
+de:08126:18804:0:1,Neureut Neufelser Mühle,49.248832,9.621972
+de:08126:18804:0:2,Neureut Neufelser Mühle,49.248832,9.621972
+de:08126:18901:0:Bus,Mangoldsall Belzhag Aussiedler,49.220026,9.652083
+de:08126:18902:0:1,Mangoldsall Belzhag,49.220055,9.667445
+de:08126:18902:0:2,Mangoldsall Belzhag,49.220302,9.667624
+de:08126:19001:0:1,Gaisbach Etzlinsweiler,49.249085,9.739579
+de:08126:19001:0:2,Gaisbach Etzlinsweiler,49.249718,9.739310
+de:08126:19002:0:1,Feßbach Künsbach,49.257305,9.712720
+de:08126:19002:0:2,Feßbach Künsbach,49.256901,9.712504
+de:08126:19101:0:1,Kocherstetten Ort,49.265167,9.760887
+de:08126:19101:0:2,Kocherstetten Ort,49.265173,9.760860
+de:08126:19102:0:1,Kocherstetten Schule,49.266697,9.760447
+de:08126:19133:0:1,Öhringen Schillerschule,49.202139,9.498669
+de:08126:19301:0:1,Pfedelbach Obergleichen,49.135880,9.525762
+de:08126:19301:0:2,Pfedelbach Obergleichen,49.135998,9.525825
+de:08126:19302:0:1,Pfedelbach Untergleichen,49.139025,9.523058
+de:08126:19302:0:2,Pfedelbach Untergleichen,49.139025,9.523058
+de:08126:19314:0:1,Öhringen Finanzamt,49.202110,9.504831
+de:08126:19319:0:1,Öhringen Zeppelinstraße,49.207081,9.507113
+de:08126:19391:0:1,Crispenhofen Halberg Kreuzung,49.309083,9.606134
+de:08126:19392:0:1,Crispenhofen Halberg Aussiedler,49.293466,9.608299
+de:08126:19601:1:1,Bitzfeld Bahnhof,49.187645,9.453178
+de:08126:19601:1:2,Bitzfeld Bahnhof,49.187639,9.453196
+de:08126:19603:10:11,Öhringen West,49.200372,9.485365
+de:08126:19702:0:1,Künzelsau Seestraße,49.276473,9.685608
+de:08126:19703:0:1,Künzelsau Haager Weg,49.274029,9.687001
+de:08126:19704:0:1,Künzelsau Friedhof,49.276362,9.687944
+de:08126:19705:0:1,Künzelsau Residenz am Fluss,49.281220,9.694358
+de:08126:19706:0:1,Künzelsau Wiesweg,49.280833,9.697664
+de:08126:19707:0:1,Künzelsau St. Bernhard,49.279415,9.697664
+de:08126:19708:0:1,Künzelsau Mittelweg,49.280722,9.701419
+de:08126:19709:0:1,Künzelsau Amrichshäuser Straße,49.280417,9.702587
+de:08126:19710:0:1,Künzelsau Marcalistraße,49.279585,9.705246
+de:08126:19711:0:1,Künzelsau Hölderlinstraße,49.280669,9.703781
+de:08126:19712:0:1,Künzelsau Weckrain,49.282029,9.702694
+de:08126:19713:0:1,Künzelsau Mörikestraße,49.283447,9.700529
+de:08126:19714:0:1,Künzelsau Schlesierstraße,49.282943,9.698886
+de:08126:19715:0:1,Künzelsau Garnberger Steige,49.283359,9.696999
+de:08126:19716:0:1,Künzelsau Mozartstraße,49.283025,9.694304
+de:08126:19717:0:1,Künzelsau Am Brückenberg,49.283224,9.690028
+de:08126:19718:0:1,Künzelsau Egerlandweg,49.285721,9.686642
+de:08126:19719:0:1,Künzelsau Nagelsberger Weg,49.286500,9.684638
+de:08126:19720:0:1,Künzelsau Bruno-Lambert-Straße,49.288609,9.683084
+de:08126:19721:0:1,Künzelsau Im Vögelein,49.291222,9.679671
+de:08126:19722:0:1,Künzelsau Gasthaus Krone,49.291943,9.678557
+de:08126:19723:0:1,Künzelsau Gymnasium,49.288891,9.680973
+de:08126:19724:0:1,Künzelsau Berlichingenweg,49.283640,9.683893
+de:08126:19725:0:1,Künzelsau Mainzer Straße,49.285164,9.682779
+de:08126:19726:0:1,Künzelsau Würzburger Str./LIDL,49.287584,9.679446
+de:08126:19860:0:1,Hollenbach EBMpapst Werk 4,49.377192,9.811310
+de:08126:19860:0:2,Hollenbach EBMpapst Werk 4,49.378841,9.812873
+de:08126:21423:0:1,Neusaß Abzweig,49.318500,9.520390
+de:08126:21423:0:2,Neusaß Abzweig,49.318319,9.520031
+de:08126:69317:0:1,Öhringen Goethestraße,49.203694,9.512575
+de:08126:69318:0:1,Öhringen Holbeinweg,49.208918,9.521926
+de:08126:69319:0:1,Öhringen Hundertwasserstraße,49.207110,9.521019
+de:08126:93140:0:1,Öhringen Flürle-Ring,49.200583,9.480469
+de:08126:93170:0:1,Öhringen Limesring,49.199586,9.519196
+de:08126:95027:0:1,Gaisbach Dieselstraße/Museum,49.258056,9.678332
+de:08126:95027:0:2,Gaisbach Dieselstraße/Museum,49.258056,9.678332
+de:08126:95028:0:0,Gaisbach Kur/Museum,49.259105,9.685195
+de:08126:95028:0:1,Gaisbach Kur/Museum,49.259363,9.685087
+de:08126:95028:0:2,Gaisbach Kur/Museum,49.258882,9.685276
+de:08127:11977,Gnadental Forsthaus,49.131478,9.633380
+de:08127:19870,Kupfer Gewerbepark,49.176899,9.706440
+de:08127:20010:0:ohne,Schwäbisch Hall Holzmarkt,49.112824,9.739049
+de:08127:20011:0:ohne,Schwäbisch Hall BSH/Crailsheimer Straße,49.113230,9.745481
+de:08127:20013:2:11,Schwäbisch Hall Bahnhof,49.108449,9.733776
+de:08127:20013:2:12,Schwäbisch Hall Bahnhof,49.108296,9.733875
+de:08127:20013:2:ohne,Schwäbisch Hall Bahnhof,49.108361,9.733857
+de:08127:20014:0:1,Steinbach (SHA) Mitte,49.099521,9.748077
+de:08127:20014:0:2,Steinbach (SHA) Mitte,49.099692,9.747889
+de:08127:20015:2:1,SHA Hessental Bahnhof,49.097204,9.767885
+de:08127:20015:2:2,SHA Hessental Bahnhof,49.097298,9.767741
+de:08127:20018:0:1,SHA Evang. Diakoniewerk / B19,49.122566,9.738726
+de:08127:20018:0:2,SHA Evang. Diakoniewerk / B19,49.122402,9.738438
+de:08127:20018:0:ohne,SHA Evang. Diakoniewerk / B19,49.122472,9.738591
+de:08127:20020:0:1,Schwäbisch Hall Scharfes Eck,49.112371,9.730839
+de:08127:20020:0:2,Schwäbisch Hall Scharfes Eck,49.112442,9.730794
+de:08127:20020:0:ohne,Schwäbisch Hall Scharfes Eck,49.112401,9.730821
+de:08127:20023:0:1,Schwäbisch Hall Stadtwerke,49.103844,9.742337
+de:08127:20023:0:2,Schwäbisch Hall Stadtwerke,49.103809,9.742130
+de:08127:20023:0:ohne,Schwäbisch Hall Stadtwerke,49.103809,9.742283
+de:08127:20036:0:ohne,Schwäbisch Hall Abzw. Waldfriedhof,49.106085,9.702658
+de:08127:20038,Michelfeld Kiesberg,49.101339,9.677542
+de:08127:20040:0:ohne,Michelfeld Gasthaus Adler,49.096863,9.677578
+de:08127:20041:0:ohne,Michelfeld Abzw. Bibersfeld,49.096580,9.676886
+de:08127:20044,Rinnen Ort,49.129785,9.668019
+de:08127:20045,Gnadental Ort,49.127475,9.651949
+de:08127:20046:0:1,Gelbingen Mitte,49.132466,9.742454
+de:08127:20046:0:2,Gelbingen Mitte,49.132442,9.742400
+de:08127:20046:0:ohne,Gelbingen Mitte,49.132424,9.742463
+de:08127:20047,Untermünkheim Marktplatz,49.153034,9.733354
+de:08127:20048,Untermünkheim Schule,49.153598,9.735986
+de:08127:20049,Untermünkheim Rathaus,49.153034,9.733273
+de:08127:20050:0:1,Haagen Ort,49.154320,9.741744
+de:08127:20050:0:2,Haagen Ort,49.154074,9.740765
+de:08127:20051,Enslingen Ort,49.160718,9.755551
+de:08127:20055,Geislingen Ort,49.170169,9.786004
+de:08127:20056,Döttingen Ort,49.221088,9.772017
+de:08127:20057,Steinkirchen Hauptstraße,49.233326,9.771496
+de:08127:20057:0:1,Steinkirchen Hauptstraße,49.233402,9.771505
+de:08127:20058,Weilersbach Ort,49.245156,9.773185
+de:08127:20059,Braunsbach Rabbinat,49.199257,9.791313
+de:08127:20061:0:ohne,Obersteinach Ort,49.206441,9.864436
+de:08127:20062,Jungholzhausen Ort,49.220994,9.795823
+de:08127:20071,Nesselbach Steinacher Straße,49.225406,9.847745
+de:08127:20086:0:1,Büchelberg Abzw.,49.138090,9.609494
+de:08127:20088,Neunkirchen (Kr. SHA) Ort,49.117357,9.625062
+de:08127:20089,Witzmannsweiler Ort,49.105526,9.630721
+de:08127:20090,Kupfer Ort,49.177134,9.697799
+de:08127:20091,Übrigshausen Ort,49.175643,9.716097
+de:08127:20095,Kupfer Grenzweg,49.178802,9.693675
+de:08127:20096,Michelbach/Heide Ort,49.245977,9.892203
+de:08127:20107:0:ohne,Engelhardshausen Haltestelle,49.275606,10.033041
+de:08127:20110:0:ohne,Wiesenbach Rathaus,49.297749,10.034990
+de:08127:20134,Bergbronn Dinkelsbühler Straße,49.112048,10.181964
+de:08127:20138,Unterrot Schule,48.979207,9.777686
+de:08127:20146:0:1,Münster Abzw.,48.995306,9.781019
+de:08127:20146:0:2,Münster Abzw.,48.995253,9.780830
+de:08127:20148,Bröckingen Krone,48.978063,9.802551
+de:08127:20150:0:1,Gaildorf ZOB,49.003351,9.754842
+de:08127:20150:0:ohne,Gaildorf ZOB,49.003251,9.754931
+de:08127:20151,Gaildorf Seestraße,49.001825,9.758399
+de:08127:20152,Gaildorf Post,48.997729,9.769188
+de:08127:20153,Gaildorf Stadtmitte,48.999780,9.770966
+de:08127:20154,Gaildorf Altes Schloß,49.001029,9.769969
+de:08127:20155:0:1,Gaildorf Schulzentrum,49.002408,9.770778
+de:08127:20155:0:2,Gaildorf Schulzentrum,49.002355,9.770859
+de:08127:20156,Gaildorf Au Bürkig,49.006792,9.769834
+de:08127:20157,Gaildorf Bahnhofstraße,49.002001,9.759854
+de:08127:20159:0:1,Unterrot ARWA/B 298,48.984890,9.776024
+de:08127:20159:0:ohne,Unterrot ARWA/B 298,48.984938,9.775898
+de:08127:20164,Ottendorf Bundesstraße,49.030670,9.748221
+de:08127:20166,Großaltdorf Ort,49.013957,9.759728
+de:08127:20169,Eutendorf Adler,49.028214,9.770023
+de:08127:20171,Kleinaltdorf Haltestelle,49.012649,9.756342
+de:08127:20172,Großaltdorf Siedlung,49.013987,9.767247
+de:08127:20173,Spöck Ortsmitte,49.025834,9.738196
+de:08127:20175,Ottendorf Pfarrhaus,49.030740,9.749047
+de:08127:20178,Gaildorf Hagerweg,49.005814,9.777686
+de:08127:20179,Gaildorf Albert-Herrmann-Straße 26,49.004058,9.777398
+de:08127:20180,Gaildorf Friedhof,49.004830,9.770248
+de:08127:20181,Gaildorf Graf-Pückler-Heim,49.000351,9.764975
+de:08127:20182,Gaildorf Feuerwache,49.001377,9.763421
+de:08127:20183,Gaildorf Königsberger Straße,48.995076,9.771128
+de:08127:20184,Gaildorf Kochstraße,48.995348,9.767454
+de:08127:20185,Gaildorf CentrumMensch,48.996609,9.767005
+de:08127:20186,Gaildorf Bahnhofstraße 18,49.000640,9.768038
+de:08127:20209:0:1,Crailsheim ZOB,49.137732,10.067563
+de:08127:20209:0:ohne,Crailsheim ZOB,49.137332,10.067006
+de:08127:20210:0:ohne,Crailsheim Jägerhaus,49.132642,10.061517
+de:08127:20213:0:ohne,Crailsheim Haller Straße,49.142410,10.051501
+de:08127:20214,Roßfeld Haller Straße,49.138555,10.022899
+de:08127:20216:0:ohne,Ingersheim Bildstraße,49.122760,10.082008
+de:08127:20219:0:ohne,Crailsheim Schulzentrum,49.141364,10.073052
+de:08127:20220:0:ohne,Crailsheim Ellwanger Straße,49.130250,10.077912
+de:08127:20224:0:ohne,Crailsheim Rathaus,49.137309,10.071318
+de:08127:20226:0:ohne,Crailsheim Tiefenbacher Straße,49.142845,10.057951
+de:08127:20234:0:ohne,Crailsheim Wilhelmstraße,49.139183,10.070186
+de:08127:20236:0:ohne,Crailsheim Karlstraße,49.137320,10.072351
+de:08127:20253:0:ohne,Crailsheim Klinikum,49.135587,10.074929
+de:08127:20265,Ellrichshausen Ortsmitte,49.178033,10.144333
+de:08127:20268,Bronnholzheim Ort,49.192230,10.101151
+de:08127:20279:0:ohne,Tiefenbach Post,49.159866,10.045590
+de:08127:20281:0:ohne,Satteldorf Rathaus,49.170839,10.077256
+de:08127:20282:0:ohne,Satteldorf Bahnbrücke,49.168096,10.079187
+de:08127:20284:0:ohne,Gröningen Alte Brauerei,49.188326,10.063655
+de:08127:20296,Erkenbrechtshausen Ort,49.175690,10.011131
+de:08127:20297:0:ohne,Triensbach Gasthaus Rose,49.169464,9.995222
+de:08127:20302:0:ohne,Lendsiedel Ortsmitte,49.202497,9.964598
+de:08127:20304:0:ohne,Kirchberg Stern,49.202579,9.981325
+de:08127:20305:0:ohne,Kirchberg Tal,49.206916,9.986337
+de:08127:20308:0:ohne,Gaggstatt Brücke,49.219128,10.005966
+de:08127:20313,Wallhausen Rathausplatz,49.211324,10.062694
+de:08127:20314,Wallhausen Weidenbach,49.211060,10.062488
+de:08127:20317,Wallhausen Hengstfelder Str.,49.213865,10.065560
+de:08127:20319,Hengstfeld Marktplatz,49.217925,10.096875
+de:08127:20321,Michelbach/Lücke Schloßstraße,49.235660,10.117078
+de:08127:20334:0:ohne,Brettheim Ortsmitte,49.279615,10.086527
+de:08127:20337,Hausen am Bach Ort,49.294685,10.115794
+de:08127:20339:0:ohne,Hilgartshausen Ortsmitte,49.266919,10.068300
+de:08127:20351,Reubach Eisenmann,49.258994,10.106721
+de:08127:20398,Sulzbach Marktplatz,48.966647,9.844134
+de:08127:20400,Laufen Schule,48.945164,9.856576
+de:08127:20446,Vellberg Abzw. Buch,49.085397,9.875045
+de:08127:20448,Talheim (Kr. SHA) Ort,49.096216,9.887181
+de:08127:20451,Vellberg Schule,49.091375,9.883579
+de:08127:20457:0:ohne,Großaltdorf (Vellberg) Rathaus,49.122931,9.901905
+de:08127:20458:0:ohne,Lorenzenzimmern Ort,49.130549,9.931531
+de:08127:20460:0:ohne,Ilshofen Steinbrunnen,49.169376,9.922279
+de:08127:20462:0:ohne,Ilshofen Parkhotel,49.171702,9.915739
+de:08127:20464:0:ohne,Ilshofen Großallmerspann Ort,49.172577,9.942239
+de:08127:20465,Ruppertshofen Ort,49.191649,9.910987
+de:08127:20466:0:ohne,Gaugshausen Schranke,49.143855,9.923707
+de:08127:20473:0:ohne,Ilshofen Krankenhaus,49.169558,9.916134
+de:08127:20476,Weckelweiler Ort,49.222549,9.982079
+de:08127:20480,Lenkerstetten Ort,49.239490,9.989859
+de:08127:20488,Rot am See Lauramühle Abzw.,49.240751,9.961975
+de:08127:20490:0:ohne,Beimbach Linde,49.243033,9.970042
+de:08127:20491,Rot am See Turnhalle,49.248363,10.027247
+de:08127:20492:2,Rot am See Bahnhof,49.248985,10.030014
+de:08127:20493:0:ohne,Rot am See Schule,49.253007,10.025055
+de:08127:20494,Rot am See Lamm,49.248610,10.026932
+de:08127:20497:0:ohne,Rot am See Rathaus,49.252702,10.025028
+de:08127:20498:0:ohne,Brettenfeld Ort,49.256983,10.020429
+de:08127:20501:0:ohne,Gammesfeld Post,49.312708,10.092878
+de:08127:20509:0:ohne,Leuzendorf Ort,49.346576,10.091359
+de:08127:20512,Schmalfelden Waage,49.325977,10.024210
+de:08127:20519,Spielbach Ort,49.385958,10.069791
+de:08127:20533,Schrozberg Schloß,49.345815,9.982124
+de:08127:20534:0:ohne,Schrozberg Friedhof,49.341800,9.979699
+de:08127:20537:0:ohne,Schrozberg ZOB,49.346061,9.974507
+de:08127:20550,Herrentierbach Wartehäuschen,49.327482,9.889598
+de:08127:20555,Riedbach Ortsmitte,49.352217,9.913870
+de:08127:20557:0:ohne,Bartenstein Linde,49.355611,9.888457
+de:08127:20558,Ettenhausen Ort,49.354230,9.878297
+de:08127:20569,Raboldshausen Ort,49.292248,9.917410
+de:08127:20570:0:ohne,Billingsbach Ortsmitte,49.303677,9.897476
+de:08127:20580:1:ohne,Blaufelden Schule / ZOB,49.299612,9.970743
+de:08127:20581:2:1,Blaufelden Bahnhof,49.296191,9.968183
+de:08127:20581:2:ohne,Blaufelden Bahnhof,49.296724,9.969198
+de:08127:20582:0:ohne,Blaufelden Rathaus,49.296577,9.973608
+de:08127:20584,Wittenweiler Ortsmitte,49.290303,9.950863
+de:08127:20589,Blaufelden Fa. Sigloch,49.299196,9.960134
+de:08127:20593,Gerabronn Gasthaus Adler,49.251495,9.922584
+de:08127:20594,Gerabronn Markt,49.249530,9.920985
+de:08127:20595,Gerabronn Schule/ ZOB,49.249905,9.928019
+de:08127:20598:0:1,Gerabronn Oberweiler,49.273771,9.927794
+de:08127:20600:0:ohne,Amlishagen Ort,49.263361,9.961616
+de:08127:20601,Gerabronn Rückershagen Ort,49.252749,9.949803
+de:08127:20604,Gerabronn Blaufelder Straße 39,49.251272,9.922494
+de:08127:20607,Rückershagen Landstraße,49.251213,9.949516
+de:08127:20608,Dünsbach Hauptstraße,49.212826,9.884037
+de:08127:20613,Langenburg Roseneck,49.249296,9.864903
+de:08127:20614,Langenburg Kriegerdenkmal,49.253635,9.854159
+de:08127:20615,Langenburg Markt,49.253160,9.847179
+de:08127:20616,Langenburg Alte Schule,49.253805,9.853108
+de:08127:20618:0:1,Langenburg Atzenrod,49.257469,9.866897
+de:08127:20618:0:2,Langenburg Atzenrod,49.257047,9.865083
+de:08127:20618:0:ohne,Langenburg Atzenrod,49.257311,9.866206
+de:08127:20621,Langenburg Hauptstr. 117,49.254121,9.854725
+de:08127:20622,Oberregenbach Ort,49.264481,9.837765
+de:08127:20624:0:ohne,Bächlingen Ort,49.244821,9.849407
+de:08127:20625,Unterregenbach Ort,49.274533,9.832537
+de:08127:20642:0:1,Steinbach (SHA) Comburg,49.098486,9.754626
+de:08127:20642:0:2,Steinbach (SHA) Comburg,49.098257,9.755282
+de:08127:20646,Uttenhofen Tullau,49.090022,9.734531
+de:08127:20667:0:2,Uttenhofen Raibach,49.093022,9.710204
+de:08127:20703:0:1,Hessental Hessentaler Str,49.098869,9.768101
+de:08127:20703:0:2,Hessental Hessentaler Str,49.098710,9.767544
+de:08127:20718,Rieden (Kr SHA) Ort,49.066208,9.709513
+de:08127:20719,Rieden (Kr SHA) Sanzenbach,49.061882,9.685025
+de:08127:20721,Westheim Berghof,49.055742,9.732069
+de:08127:20722,Uttenhofen Rathaus,49.067785,9.725844
+de:08127:20725,Westheim BEW,49.052033,9.738465
+de:08127:20737,Breitenstein (SHA) Ort,49.133653,9.751159
+de:08127:20739,Eltershofen Ort,49.139483,9.764103
+de:08127:20763,Bibersfeld Ort,49.081302,9.689112
+de:08127:20777:0:1,Oberrot Rathaus,49.014499,9.663375
+de:08127:20777:0:2,Oberrot Rathaus,49.014541,9.663537
+de:08127:20780:0:1,Oberrot Lindenstraße,49.014464,9.673930
+de:08127:20780:0:2,Oberrot Lindenstraße,49.014329,9.673894
+de:08127:20781:0:1,Hausen Ort,49.004553,9.678593
+de:08127:20781:0:2,Hausen Ort,49.004577,9.678754
+de:08127:20785:2:ohne,Fichtenberg Bahnhof,48.987903,9.700961
+de:08127:20788:0:1,Fichtenberg Krone,48.985698,9.714417
+de:08127:20788:0:2,Fichtenberg Krone,48.985580,9.714390
+de:08127:20790:0:1,Mittelrot Ort,48.986181,9.741286
+de:08127:20790:0:2,Mittelrot Ort,48.986276,9.741232
+de:08127:20842,Orlach Ort,49.211312,9.813439
+de:08127:20845,Ottendorf Siedlung,49.028708,9.744978
+de:08127:20846,Altenmünster Kirchstraße,49.127593,10.052965
+de:08127:21000:10:ohne,Schwäbisch Hall ZOB,49.116411,9.734926
+de:08127:21000:4:4,Schwäbisch Hall ZOB,49.116176,9.735016
+de:08127:21000:5:5,Schwäbisch Hall ZOB,49.116423,9.734692
+de:08127:21002:1,Eckartshausen-Ilshofen Bahnhof,49.152681,9.936400
+de:08127:21004,Rudolfsberg Abzw,49.155771,10.128927
+de:08127:21024,SHA Scharfes Eck/Katharinenstr,49.112283,9.731270
+de:08127:21200,Fi- Neustädtl. Feuerwehrhaus,49.094545,10.222037
+de:08127:21290,Dünsbach Obersteinacher Straße,49.213008,9.883570
+de:08127:21303,Übrigshausen B 19,49.177399,9.709468
+de:08127:21311:0:ohne,Baierbach Haltestelle,49.112671,9.657680
+de:08127:22508,Crailsheim Musikschule,49.134364,10.056137
+de:08127:22517,Goldbach Post,49.141082,10.123537
+de:08127:22521,Jagstheim Burgbergsiedlung,49.091869,10.074795
+de:08127:22522:0:ohne,Jagstheim Ortsmitte,49.092363,10.062344
+de:08127:22523,Onolzheim Ortsmitte,49.115793,10.033724
+de:08127:22526,Westgartshausen Abzw.,49.122831,10.120770
+de:08127:23241,Weipertshofen Kirche,49.080549,10.118758
+de:08127:23250,Cröffelbach Post,49.160929,9.823042
+de:08127:23256,Wolpertshausen Hopfach,49.150531,9.829860
+de:08127:23257,Wolpertshausen Rathaus,49.167732,9.847090
+de:08127:23258,Wolpertshausen Reinsberg,49.149567,9.853450
+de:08127:23261,Wolpertshausen Unterscheffach,49.141135,9.849686
+de:08127:24120,Gaildorf Kernerstraße,48.998583,9.761696
+de:08127:25086:0:3,Crailsheim Fa. Bosch,49.150654,10.075432
+de:08127:25086:0:4,Crailsheim Fa. Bosch,49.150431,10.075127
+de:08127:25093,Crailsheim Fa. Voith/Milchwerk,49.135516,10.059963
+de:08127:25508:0:ohne,Tiefenbach Kirche,49.162750,10.041242
+de:08127:26402:0:ohne,Kirchberg Schule Abzw,49.196662,9.984738
+de:08127:27531:30:1,Wallhausen Bahnhof,49.209874,10.063332
+de:08127:27531:30:ohne,Wallhausen Bahnhof,49.209505,10.063808
+de:08127:28221:0:ohne,Ammertsweiler Gasthaus Ochsen,49.086657,9.519465
+de:08127:28241,Bergertshofen Ort,49.154085,10.213342
+de:08127:28250:0:ohne,Bubenorbis Ort,49.085250,9.610779
+de:08127:28252:0:ohne,Ziegelbronn Ort,49.090116,9.577083
+de:08127:28253:0:ohne,Geißelhardt Ort,49.102727,9.568935
+de:08127:28255:0:ohne,Lachweiler Ort,49.098292,9.576849
+de:08127:28256:0:1,Mainhardt Neuwirtshaus,49.120374,9.547205
+de:08127:28258:0:ohne,Hohenstraßen Ortsmitte,49.079673,9.531736
+de:08127:28260:0:ohne,Hütten Ortsmitte,49.067885,9.598427
+de:08127:28265:0:ohne,Gailsbach Ort,49.092575,9.557985
+de:08127:28270:0:ohne,Mainhardt Wendeplatte,49.080738,9.557239
+de:08127:28296,Veinau Post,49.137597,9.785286
+de:08127:30000,Rechenberg Schule,49.047936,10.141521
+de:08127:30002:0:ohne,Stimpfach Post,49.062270,10.090686
+de:08127:30006,Unterdeufstetten Post,49.053806,10.231101
+de:08127:30042,Lautenbach Ortsmitte,49.071517,10.226466
+de:08127:30050,Matzenbach Wildensteiner Straß,49.054565,10.201682
+de:08127:30053,Matzenbach Kirchplatz,49.052828,10.202481
+de:08127:30060,Wäldershub Bergbronner Straße,49.085721,10.186922
+de:08127:30074,Wildenstein Rathaus,49.070716,10.207709
+de:08127:30122,Gründelhardt Crailsheimer Str.,49.082879,9.982250
+de:08127:30123,Gründelhardt Post,49.081779,9.976528
+de:08127:30129:0:ohne,Ilshofen Gaugshausen Bachstr.,49.144196,9.922315
+de:08127:30138,Honhardt Post,49.070781,10.037326
+de:08127:30147,Oberspeltach Rathaus,49.103968,9.980894
+de:08127:30152:0:ohne,Steinbach (Jagst) Ortsmitte,49.079008,10.070833
+de:08127:30172,Großaltdorf Am Kreisverkehr,49.014311,9.766888
+de:08127:30203,Gaildorf Panoramastr. Hochhaus,49.008059,9.772601
+de:08127:30227:0:ohne,Lobenhausen Ort,49.185379,10.003810
+de:08127:30405,Leukershausen Ortsmitte,49.162563,10.186877
+de:08127:30406,Leukersh'n Haselhof Straßenf.,49.159085,10.169109
+de:08127:30407,Mariäkappel Krone,49.159890,10.161599
+de:08127:30415,Marktlustenau Ortsmitte,49.132460,10.235557
+de:08127:30419,Kreßberg Tempelhof,49.126535,10.206155
+de:08127:30422,Waldtann Rathaus,49.130814,10.184802
+de:08127:30425:0:ohne,Vellberg Alte Post,49.085933,9.879177
+de:08127:30428:0:ohne,Randenweiler Hauptstraße,49.055054,10.081730
+de:08127:30430,Cr. Goldbacher Str./Heinkel-Str,49.139683,10.088413
+de:08127:30432,Fichtenau Gunzach,49.069263,10.185458
+de:08127:30757:0:ohne,Oberaspach Kirche,49.145254,9.901177
+de:08127:31085:0:1,Schwäbisch Hall Salinenstraße,49.119039,9.732689
+de:08127:5008,Cr. Ludwig-Erhard-Str/Kraftwerkstr,49.134399,10.041216
+de:08127:5017,Cr. Ludwig-Ehrhard-Str/Fliegerhorst,49.135463,10.048079
+de:08127:53090:0:99,Beuerlbach Alte Küferei,49.155766,10.090308
+de:08127:92102,Wittau Hauptstraße,49.116734,10.107403
+de:08127:92152,Bernhardsweiler Ortsmitte,49.085745,10.236150
+de:08127:92155:0:ohne,Michelfeld Kerz/B14,49.103362,9.692759
+de:08128:12005:2,Bad Mergentheim Bahnhof,49.493444,9.771793
+de:08128:12012,Bad Mergentheim DOG,49.487060,9.787253
+de:08128:12046,Bad Mergentheim Wachbacher Str,49.484953,9.770517
+de:08128:12077,Bad Mgh. Altstadt Schloß,49.489009,9.774407
+de:08128:12078,Bad Mgh. Maurus-Weber-Straße,49.487048,9.781540
+de:08128:12157,Rengershausen Siedlung,49.406541,9.727555
+de:08128:12158,Rengershausen Mitte,49.403204,9.723551
+de:08128:12164,Stuppach,49.445475,9.751243
+de:08128:12169,Lillstadt Abzweig,49.453207,9.762172
+de:08128:12170,Lillstadt Ort,49.448973,9.772610
+de:08128:12914,Niederstetten(TBB) Ziegelmühle,49.401715,9.919979
+de:08128:NVBW_SWH_11501,Niederstetten (TBB) Kaiserstr,49.382672,9.863520
+de:08128:NVBW_SWH_11502,Niederstetten (TBB) Realschule,49.396898,9.919781
+de:08225:1040,Leibenstadt Ort,49.369214,9.420318
+de:08225:1450,Adelsheim Gymnasium,49.409151,9.395210
+de:08225:195,Erlenbach (Ravenst.),49.385689,9.551472
+de:08225:434,Osterburken GTO,49.433039,9.414200
+de:08225:6362,Osterburken Rathaus,49.430906,9.426867
+de:08225:8200,Osterburken Bahnhof,49.430042,9.422312
+de:08225:906,Dörnishof Abzweig,49.403878,9.468674

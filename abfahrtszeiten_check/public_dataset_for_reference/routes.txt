@@ -1,0 +1,271 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+99999,0-1-j19-5,1,ZOB - Waldzimmern Burgstall,3
+99999,0-1-j19-7,1,ZOB - Betriebshof Herbold,3
+99999,0-1-j19-8,1,ZOB - Waldzimmern Burgstall,3
+99999,0-1-j19-9,1,ZOB - Bahnhof,3
+99999,0-10-j19-5,10,Schule - Betriebshof SWEG,3
+99999,0-10-j19-7,10,Schule - Betriebshof Rüdinger,3
+99999,0-10-j19-8,10,Schule - Betriebshof Rüdinger,3
+99999,0-10-j19-9,10,Schule - Betriebshof Rüdinger,3
+99999,0-100-j19-5,100,Schippberg - Realschule,3
+99999,0-100-j19-7,100,Schippberg - Realschule,3
+99999,0-100-j19-8,100,Schippberg - Realschule,3
+99999,0-100-j19-9,100,Schippberg - Realschule,3
+99999,0-108-j19-5,108,Neuhof - Max-Eyth-Schule,3
+99999,0-108-j19-7,108,Neuhof - Max-Eyth-Schule,3
+99999,0-108-j19-8,108,Betriebshof Pitz - Max-Eyth-Schule,3
+99999,0-108-j19-9,108,Betriebshof Pitz - Max-Eyth-Schule,3
+99999,0-11-j19-5,11,Schulzentrum - Maurus-Weber-Straße,3
+99999,0-11-j19-7,11,Schulzentrum - Aussiedler,3
+99999,0-11-j19-8,11,Schulzentrum - Aussiedler,3
+99999,0-11-j19-9,11,Schulzentrum - Mitte,3
+99999,0-13-j19-5,13,Kloster - Sonne,3
+99999,0-13-j19-7,13,Kloster - Sonne,3
+99999,0-13-j19-8,13,Kloster - Sonne,3
+99999,0-13-j19-9,13,Kloster - Sonne,3
+99999,0-14-j19-5,14,Grabenweg - Hallenbad,3
+99999,0-14-j19-7,14,Grabenweg - Hallenbad,3
+99999,0-14-j19-8,14,Schule - ZOB,3
+99999,0-14-j19-9,14,Schule - Hallenbad,3
+99999,0-15-j19-5,15,Stachenhausen Ort - Betriebshof Metzger,3
+99999,0-15-j19-7,15,Stachenhausen Ort - Betriebshof Metzger,3
+99999,0-15-j19-8,15,Stachenhausen Ort - Betriebshof Binder,3
+99999,0-15-j19-9,15,Stachenhausen Ort - Betriebshof Metzger,3
+99999,0-17-j19-5,17,Hauptbahnhof - Bahnhof,3
+99999,0-17-j19-7,17,Hauptbahnhof - Bahnhof,3
+99999,0-17-j19-8,17,Hauptbahnhof - Bahnhof,3
+99999,0-17-j19-9,17,Hauptbahnhof - Bahnhof,3
+99999,0-19-j19-5,19,Schippberg - ZOB,3
+99999,0-19-j19-7,19,Schippberg - ZOB,3
+99999,0-19-j19-8,19,Schippberg - ZOB,3
+99999,0-19-j19-9,19,Schippberg - ZOB,3
+99999,0-2-j19-5,2,Bachstraße - Bachstraße,3
+99999,0-2-j19-7,2,Bachstraße - Bachstraße,3
+99999,0-2-j19-8,2,Bachstraße - Bachstraße,3
+99999,0-2-j19-9,2,Bachstraße - Bachstraße,3
+99999,0-20-j19-5,20,Schule - Schule,3
+99999,0-20-j19-7,20,Schule - Schloß Stetten See,3
+99999,0-20-j19-8,20,Schule - Schule,3
+99999,0-20-j19-9,20,Schule - Mitte,3
+99999,0-21-j19-5,21,Kappensteige - Betriebshof RBS,3
+99999,0-21-j19-7,21,Kappensteige - Betriebshof RBS,3
+99999,0-21-j19-8,21,Kappensteige - Betriebshof RBS,3
+99999,0-21-j19-9,21,Kappensteige - Betriebshof RBS,3
+99999,0-22-j19-5,22,Berndshofen Mitte - Post,3
+99999,0-22-j19-7,22,Berndshofen Mitte - Seen,3
+99999,0-22-j19-8,22,Berndshofen Mitte - Seen,3
+99999,0-22-j19-9,22,Berndshofen Mitte - Seen,3
+99999,0-23-j19-5,23,Garnberg Am Buchs - Taläcker Sonderschule,3
+99999,0-23-j19-7,23,Garnberg Am Buchs - Schule,3
+99999,0-23-j19-8,23,Garnberg Am Buchs - Schule,3
+99999,0-23-j19-9,23,Garnberg Am Buchs - Schule,3
+99999,0-24-j19-5,24,Kappensteige - Betriebshof Schwab,3
+99999,0-24-j19-7,24,Kappensteige - Betriebshof Schwab,3
+99999,0-24-j19-8,24,Kappensteige - Betriebshof RBS,3
+99999,0-24-j19-9,24,Kappensteige - Betriebshof Schwab,3
+99999,0-25-j19-5,25,ZOB - ZOB,3
+99999,0-25-j19-7,25,ZOB - ZOB,3
+99999,0-25-j19-8,25,ZOB - ZOB,3
+99999,0-25-j19-9,25,ZOB - ZOB,3
+99999,0-26-j19-5,26,Hessental Bahnhof - Ort,3
+99999,0-26-j19-7,26,Hessental Bahnhof - Ort,3
+99999,0-26-j19-8,26,Hessental Bahnhof - Ort,3
+99999,0-26-j19-9,26,Hessental Bahnhof - Ort,3
+99999,0-27-j19-5,27,Untere Vorstadt - Kappensteige,3
+99999,0-27-j19-7,27,Untere Vorstadt - Kappensteige,3
+99999,0-27-j19-8,27,Untere Vorstadt - Kappensteige,3
+99999,0-27-j19-9,27,Untere Vorstadt - Kappensteige,3
+99999,0-28-j19-5,28,Betriebshof Röhler - Rose,3
+99999,0-28-j19-7,28,Betriebshof Röhler - Rose,3
+99999,0-28-j19-8,28,Betriebshof Röhler - Rose,3
+99999,0-28-j19-9,28,Stadtbus SHA Betriebshof - Brücke,3
+99999,0-3-j19-5,3,ZOB - ZOB,3
+99999,0-3-j19-7,3,ZOB - ZOB,3
+99999,0-3-j19-8,3,ZOB - ZOB,3
+99999,0-3-j19-9,3,ZOB - ZOB,3
+99999,0-30-j19-5,30,ZOB - ZOB,3
+99999,0-30-j19-7,30,ZOB - ZOB,3
+99999,0-30-j19-8,30,ZOB - ZOB,3
+99999,0-30-j19-9,30,ZOB - ZOB,3
+99999,0-33-j19-5,33,Ort - Schule,3
+99999,0-33-j19-7,33,Ort - Schule,3
+99999,0-33-j19-8,33,Ort - Schule,3
+99999,0-33-j19-9,33,Ort - Schule,3
+99999,0-34-j19-5,34,Fa. Knecht - Hauptbahnhof,3
+99999,0-34-j19-7,34,Fa. Knecht - Hauptbahnhof,3
+99999,0-34-j19-8,34,Fa. Knecht - Hauptbahnhof,3
+99999,0-34-j19-9,34,Fa. Knecht - Hauptbahnhof,3
+99999,0-35-j19-5,35,Hauptbahnhof - Hauptbahnhof,3
+99999,0-35-j19-7,35,Hauptbahnhof - Hauptbahnhof,3
+99999,0-35-j19-8,35,Hauptbahnhof - Hauptbahnhof,3
+99999,0-35-j19-9,35,Hauptbahnhof - Hauptbahnhof,3
+99999,0-37-j19-5,37,Hauptbahnhof - Betriebshof Eisemann,3
+99999,0-37-j19-7,37,Hauptbahnhof - Betriebshof Eisemann,3
+99999,0-37-j19-8,37,Hauptbahnhof - Betriebshof Eisemann,3
+99999,0-37-j19-9,37,Hauptbahnhof - Betriebshof Eisemann,3
+99999,0-38-j19-5,38,Hauptbahnhof - Hauptbahnhof,3
+99999,0-38-j19-7,38,Hauptbahnhof - Hauptbahnhof,3
+99999,0-38-j19-8,38,Hauptbahnhof - Hauptbahnhof,3
+99999,0-38-j19-9,38,Hauptbahnhof - Hauptbahnhof,3
+99999,0-39-j19-5,39,Realschule - Schloß,3
+99999,0-39-j19-7,39,Realschule - Schloß,3
+99999,0-39-j19-8,39,Realschule - Schloß,3
+99999,0-39-j19-9,39,Realschule - Schloß,3
+99999,0-4-j19-5,4,Hauptbahnhof - Müller & M,3
+99999,0-4-j19-7,4,Hauptbahnhof - Müller & M,3
+99999,0-4-j19-8,4,Hauptbahnhof - Müller & M,3
+99999,0-4-j19-9,4,Hauptbahnhof - Müller & M,3
+99999,0-40-j19-5,40,Hauptbahnhof - Hauptbahnhof,3
+99999,0-40-j19-7,40,Hauptbahnhof - Hauptbahnhof,3
+99999,0-40-j19-8,40,Hauptbahnhof - Hauptbahnhof,3
+99999,0-40-j19-9,40,Hauptbahnhof - Hauptbahnhof,3
+99999,0-42-j19-5,42,Brettach - Brettach,3
+99999,0-42-j19-7,42,Brettach - Brettach,3
+99999,0-42-j19-8,42,Brettach - Brettach,3
+99999,0-42-j19-9,42,Brettach - Brettach,3
+99999,0-43-j19-5,43,Bildungszentrum - Schule,3
+99999,0-43-j19-7,43,Bildungszentrum - Schule,3
+99999,0-43-j19-8,43,Bildungszentrum - Schule,3
+99999,0-43-j19-9,43,Bildungszentrum - Schule,3
+99999,0-46-j19-5,46,Mitte - Birkenhöfe,3
+99999,0-46-j19-7,46,Bahnhof - Birkenhöfe,3
+99999,0-46-j19-8,46,Mitte - Hauptbahnhof,3
+99999,0-46-j19-9,46,Mitte - Birkenhöfe,3
+99999,0-47-j19-5,47,Schloß - Schwabbach Schwabenstraße,3
+99999,0-47-j19-7,47,Schloß - Schwabbach Schwabenstraße,3
+99999,0-47-j19-8,47,Schloß - Schwabbach Schwabenstraße,3
+99999,0-47-j19-9,47,Schloß - Schwabbach Schwabenstraße,3
+99999,0-48-j19-5,48,"Langenbeutingen, Schulstraße - Betriebshof Herbold",3
+99999,0-48-j19-7,48,"Langenbeutingen, Schulstraße - Schule",3
+99999,0-48-j19-8,48,"Langenbeutingen, Schulstraße - Schule",3
+99999,0-48-j19-9,48,"Langenbeutingen, Schulstraße - Schule",3
+99999,0-49-j19-5,49,"Neuenstadt (K), Schulzentrum - Neuenstadt (K), ZOB Lindenplatz",3
+99999,0-49-j19-7,49,"Neuenstadt (K), Schulzentrum - Neuenstadt (K), ZOB Lindenplatz",3
+99999,0-49-j19-8,49,"Neuenstadt (K), Schulzentrum - Neuenstadt (K), ZOB Lindenplatz",3
+99999,0-49-j19-9,49,"Neuenstadt (K), Schulzentrum - Neuenstadt (K), ZOB Lindenplatz",3
+99999,0-5-j19-5,5,Schule - Betriebshof Herbold,3
+99999,0-5-j19-7,5,Pumpstation - Betriebshof Herbold,3
+99999,0-5-j19-8,5,Schule - Betriebshof Herbold,3
+99999,0-5-j19-9,5,Schule - Belzhag,3
+99999,0-50-j19-5,50,Hauptbahnhof - Kochermühle,3
+99999,0-50-j19-7,50,Hauptbahnhof - Kochermühle,3
+99999,0-50-j19-8,50,Hauptbahnhof - Kochermühle,3
+99999,0-50-j19-9,50,Hauptbahnhof - Kochermühle,3
+99999,0-51-j19-5,51,Betriebshof Hütter - Tiefensall,3
+99999,0-51-j19-7,51,Betriebshof Hütter - Tiefensall,3
+99999,0-51-j19-8,51,Betriebshof Hütter - Tiefensall,3
+99999,0-51-j19-9,51,Betriebshof Hütter - Tiefensall,3
+99999,0-52-j19-5,52,Hallenbad - Schule,3
+99999,0-52-j19-7,52,Hallenbad - Realschule,3
+99999,0-52-j19-8,52,Hauptbahnhof - Ri-Strauß-Str/Kiga,3
+99999,0-52-j19-9,52,Hallenbad - Realschule,3
+99999,0-53-j19-5,53,Untermaßholderbach - Betriebshof Müller Meg,3
+99999,0-53-j19-7,53,Untermaßholderbach - Betriebshof Müller Meg,3
+99999,0-53-j19-8,53,Untermaßholderbach - Betriebshof Müller Meg,3
+99999,0-53-j19-9,53,Untermaßholderbach - Betriebshof Müller Meg,3
+99999,0-54-j19-5,54,Hauptbahnhof - Betriebshof Hütter,3
+99999,0-54-j19-7,54,Hauptbahnhof - Betriebshof Hütter,3
+99999,0-54-j19-8,54,Hauptbahnhof - Betriebshof Hütter,3
+99999,0-54-j19-9,54,Hauptbahnhof - Betriebshof Hütter,3
+99999,0-55-j19-5,55,Betriebshof Hütter - Hauptbahnhof,3
+99999,0-55-j19-7,55,Betriebshof Hütter - Hauptbahnhof,3
+99999,0-55-j19-8,55,Betriebshof Hütter - Hauptbahnhof,3
+99999,0-55-j19-9,55,Betriebshof Hütter - Hauptbahnhof,3
+99999,0-58-j19-5,58,Hauptbahnhof - Schule,3
+99999,0-58-j19-7,58,Hauptbahnhof - Betriebshof Taxi Peki,3
+99999,0-58-j19-8,58,Realschule - Betriebshof Taxi Peki,3
+99999,0-58-j19-9,58,Hauptbahnhof - Betriebshof Herbold,3
+99999,0-6-j19-5,6,Realschule - Eichendorffstraße,3
+99999,0-6-j19-7,6,Brücke - Eichendorffstraße,3
+99999,0-6-j19-8,6,ZOB - Eichendorffstraße,3
+99999,0-6-j19-9,6,ZOB - Eichendorffstraße,3
+99999,0-61-j19-5,61,Brandhölzle - Betriebshof Müller,3
+99999,0-61-j19-7,61,Brandhölzle - Betriebshof Müller,3
+99999,0-61-j19-8,61,Brandhölzle - Betriebshof Müller,3
+99999,0-61-j19-9,61,Brandhölzle - Betriebshof Müller,3
+99999,0-63-j19-5,63,Bahnhof - Bahnhof,3
+99999,0-63-j19-7,63,Bahnhof - Bahnhof,3
+99999,0-63-j19-8,63,Bahnhof - Bahnhof,3
+99999,0-63-j19-9,63,Bahnhof - Bahnhof,3
+99999,0-66-j19-5,66,Jagststraße - Betriebshof SWEG,3
+99999,0-66-j19-7,66,Jagststraße - Betriebshof SWEG,3
+99999,0-66-j19-8,66,Jagststraße - Betriebshof SWEG,3
+99999,0-66-j19-9,66,Jagststraße - Betriebshof SWEG,3
+99999,0-67-j19-5,67,Rose - Rose,3
+99999,0-67-j19-7,67,Betriebshof Binder - Betriebshof Binder,3
+99999,0-67-j19-8,67,Stadthalle - Betriebshof Binder,3
+99999,0-67-j19-9,67,Stadthalle - Betriebshof Binder,3
+99999,0-7-j19-5,7,Kappensteige - Kappensteige,3
+99999,0-7-j19-7,7,Kappensteige - Kappensteige,3
+99999,0-7-j19-8,7,Kappensteige - Kappensteige,3
+99999,0-7-j19-9,7,Bahnhof - Kappensteige,3
+99999,0-71-j19-5,71,Schule - Betriebshof Schmidt,3
+99999,0-71-j19-7,71,Schule - Betriebshof Schmidt,3
+99999,0-71-j19-8,71,Schule - Betriebshof Schmidt,3
+99999,0-71-j19-9,71,Schule - Betriebshof Schmidt,3
+99999,0-72-j19-5,72,Rabbinat - Kügelhof,3
+99999,0-72-j19-7,72,Rabbinat - Kügelhof,3
+99999,0-72-j19-8,72,Rabbinat - Kügelhof,3
+99999,0-72-j19-9,72,Rabbinat - Kügelhof,3
+99999,0-73-j19-5,73,Schule - Kindergarten,3
+99999,0-73-j19-7,73,Schule - Post,3
+99999,0-73-j19-8,73,Schule - Post,3
+99999,0-73-j19-9,73,Schule - Kindergarten,3
+99999,0-74-j19-5,74,ZOB - Schule,3
+99999,0-74-j19-7,74,ZOB - Schule,3
+99999,0-74-j19-8,74,ZOB - Schule,3
+99999,0-74-j19-9,74,ZOB - Schule,3
+99999,0-75-j19-5,75,Kindergarten - Mitte,3
+99999,0-75-j19-7,75,Kindergarten - Mitte,3
+99999,0-75-j19-8,75,Kindergarten - Mitte,3
+99999,0-75-j19-9,75,Kindergarten - Mitte,3
+99999,0-77-j19-5,77,Brücke - Stadthalle,3
+99999,0-77-j19-7,77,Brücke - Stadthalle,3
+99999,0-77-j19-8,77,Brücke - Stadthalle,3
+99999,0-77-j19-9,77,Brücke - Stadthalle,3
+99999,0-8-j19-5,8,Sonne - Post,3
+99999,0-8-j19-7,8,Sonne - Heimhausen,3
+99999,0-8-j19-8,8,Sonne - Kelter,3
+99999,0-8-j19-9,8,Sonne - Heimhausen,3
+99999,0-81-j19-5,81,Bahnhof - Brücke,3
+99999,0-81-j19-7,81,Bahnhof - Brücke,3
+99999,0-81-j19-8,81,Bahnhof - Brücke,3
+99999,0-81-j19-9,81,Bahnhof - Brücke,3
+99999,0-89-j19-5,89,Hauptbahnhof - Hauptbahnhof,3
+99999,0-89-j19-7,89,Hauptbahnhof - Hauptbahnhof,3
+99999,0-89-j19-8,89,Hauptbahnhof - Hauptbahnhof,3
+99999,0-89-j19-9,89,Hauptbahnhof - Hauptbahnhof,3
+99999,0-9-j19-5,9,Gymnasium - Betriebshof SWEG,3
+99999,0-9-j19-7,9,Gymnasium - Betriebshof SWEG,3
+99999,0-9-j19-8,9,Gymnasium - Betriebshof SWEG,3
+99999,0-9-j19-9,9,Gymnasium - Betriebshof SWEG,3
+99999,40-25-j19-1,25,Künzelsau Schippberg - Crailsheim ZOB,3
+99999,40-40-j19-1,40,Gaildorf ZOB - Gaildorf Post,3
+99999,40-r08-j19-1,r08,Oberrot Rathaus - Gaildorf ZOB,3
+99999,40-r10-j19-1,r10,Schwäb. Hall Spitalbach West - Rieden (Kr SHA) Ort,3
+99999,40-r16-n-j19-1,r16-n,Schwäb. Hall Spitalbach West - Oberrot Rathaus,3
+99999,40-r18-j19-1,r18,Ilshofen Steinbrunnen - Vellberg Städtle,3
+99999,40-r20-j19-1,r20,Ammertsweiler Gasthaus Ochsen - Schwäbisch Hall ZOB,3
+99999,40-r23-j19-1,r23,Eckartshausen Waage - Schwäbisch Hall Bahnhof,3
+99999,40-r26-j19-1,r26,Orlach Ort - Schwäbisch Hall Bahnhof,3
+99999,40-r43-j19-1,r43,Gaildorf ZOB - Gaildorf ZOB,3
+99999,40-r45-j19-1,r45,Laufen Schule - Gaildorf ZOB,3
+99999,40-r55-j19-1,r55,Rot am See Bahnhof - Crailsheim ZOB,3
+99999,40-r58-j19-1,r58,Crailsheim ZOB - Crailsheim ZOB,3
+99999,40-r59-j19-1,r59,Fi- Neustädtl. Feuerwehrhaus - Crailsheim ZOB,3
+99999,40-r60-j19-1,r60,Weipertshofen Kirche - Crailsheim ZOB,3
+99999,40-r62-j19-1,r62,Honhardt Post - Crailsheim ZOB,3
+99999,40-r64-j19-1,r64,Langenburg Markt - Crailsheim ZOB,3
+99999,40-r65-n-j19-1,r65-n,Crailsheim ZOB - Spielbach Ort,3
+99999,40-r66-j19-1,r66,Amlishagen Ort - Unteraspach Oberaspach,3
+99999,40-r66-n-j19-1,r66-n,Crailsheim ZOB - Obersteinach Ort,3
+99999,40-r90-j19-1,r90,Blaufelden Bahnhof - Schrozberg Schloß,3
+WEG-OVR,37-620-j19-1,620,Neuenstadt (K) Lindenplatz - Heilbronn Wollhausplatz,3
+WEG-OVR,37-621-j19-1,621,Stein (K) Turnhalle - Neuenstadt (K) Lindenplatz,3
+WEG-OVR,37-622-j19-1,622,Lampoldshausen Waldstraße - Neuenstadt (K) Schulzentrum,3
+WEG-OVR,37-623-j19-1,623,Neudeck - Neuenstadt (K) Schulzentrum,3
+WEG-OVR,37-624-j19-1,624,Neuenstadt (K) Lindenplatz - Neckarsulm Bf Ost/Vorplatz,3
+WEG-OVR,37-625-j19-1,625,Neuenstadt (K) Schulzentrum - Neckarsulm AUDI Werk A13/A14,3
+WEG-OVR,37-626-j19-1,626,Neuenstadt (K) Betriebshof - Neckarsulm AUDI Tor 6,3
+WEG-OVR,37-628-j19-1,628,Bad Friedrichshall Hbf - Bad Friedrichshall Hbf,3
+WEG-OVR,37-n20-j19-1,n20,Heilbronn Wollhausplatz - Lampoldshausen Waldstraße,3
